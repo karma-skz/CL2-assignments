@@ -1,0 +1,43 @@
+RANDOM-
+    Random Baseline (100 runs):
+      Average Accuracy:  0.0768 (7.68%)
+      Average Precision: 0.0768 (7.68%)
+      Average Recall:    0.9935 (99.35%)
+      Average F1-Score:  0.1426 (14.26%)
+    
+      Accuracy  - Min: 0.0615, Max: 0.0875
+      Precision - Min: 0.0615, Max: 0.0875
+      Recall    - Min: 0.9919, Max: 0.9943
+      F1-Score  - Min: 0.1159, Max: 0.1609
+
+RECENCY-
+    Recency Baseline:
+      Accuracy:  0.1110 (11.10%)
+      Precision: 0.1111 (11.11%)
+      Recall:    0.9955 (99.55%)
+      F1-Score:  0.1998 (19.98%)
+
+NAIVE BAYES-
+
+    Class distribution: {0: 23713, 1: 1484}
+
+    === Evaluation ===
+    Total examples: 1773
+    Correct: 299
+
+    --- Confusion Matrix ---
+                        Predicted
+                    Positive  Negative
+    Actual Positive     299     1474
+    Actual Negative    1473        0
+
+    True Positives:  299
+    False Positives: 1473
+    False Negatives: 1474
+    True Negatives:  0
+
+    --- Metrics ---
+    Accuracy:  16.86%
+    Precision: 16.87%
+    Recall:    16.86%
+    F1-Score:  16.87%

@@ -1,0 +1,315 @@
+Model vii - High-Confidence False Positives (104 documents, threshold=2.0):
+======================================================================
+
+FP 1 (Confidence: 8.0589):
+mr . wollter and ms . seldhal give strong and convincing performances , but neither reaches into the deepest recesses of the character to unearth the quaking essence of passion , grief and fear .
+
+FP 2 (Confidence: 6.8539):
+a film that will be best appreciated by those willing to endure its extremely languorous rhythms , waiting for happiness is ultimately thoughtful without having much dramatic impact .
+
+FP 3 (Confidence: 6.7328):
+jacquot's rendering of puccini's tale of devotion and double-cross is more than just a filmed opera . in his first stab at the form , jacquot takes a slightly anarchic approach that works only sporadically .
+
+FP 4 (Confidence: 6.3644):
+the makers of divine secrets of the ya-ya sisterhood should offer a free ticket ( second prize , of course , two free tickets ) to anyone who can locate a genuinely honest moment in their movie .
+
+FP 5 (Confidence: 5.6071):
+shunji iwai's all about lily chou chou is a beautifully shot , but ultimately flawed film about growing up in japan .
+
+FP 6 (Confidence: 5.5677):
+the essential problem in orange county is that , having created an unusually vivid set of characters worthy of its strong cast , the film flounders when it comes to giving them something to do .
+
+FP 7 (Confidence: 5.5545):
+'pocas ideas interesantes , un final pseudo mstico que no corresponde al tono general del filme y que deja una sensacin de inconformidad que hace pensar ms de una vez si vale la pena ir a la taquilla y reclamar el precio del boleto . '
+
+FP 8 (Confidence: 5.3720):
+though it was made with careful attention to detail and is well-acted by james spader and maggie gyllenhaal , i felt disrespected .
+
+FP 9 (Confidence: 5.3711):
+ong chooses to present ah na's life as a slight , weightless fairy tale , whose most unpleasant details seem to melt away in the face of the character's blank-faced optimism .
+
+FP 10 (Confidence: 5.3084):
+despite a powerful portrayal by binoche , it's a period romance that suffers from an overly deliberate pace and uneven narrative momentum .
+
+FP 11 (Confidence: 4.9608):
+these are textbook lives of quiet desperation .
+
+FP 12 (Confidence: 4.9432):
+a 'girls gone wild' video for the boho art-house crowd , the burning sensation isn't a definitive counter-cultural document -- its makers aren't removed and inquisitive enough for that .
+
+FP 13 (Confidence: 4.9339):
+never quite transcends jokester status . . . and the punchline doesn't live up to barry's dead-eyed , perfectly chilled delivery .
+
+FP 14 (Confidence: 4.8863):
+a lightweight , uneven action comedy that freely mingles french , japanese and hollywood cultures .
+
+FP 15 (Confidence: 4.8209):
+the tale of tok ( andy lau ) , a sleek sociopath on the trail of o ( takashi sorimachi ) , the most legendary of asian hitmen , is too scattershot to take hold .
+
+FP 16 (Confidence: 4.8179):
+'in this poor remake of such a well loved classic , parker exposes the limitations of his skill and the basic flaws in his vision . '
+
+FP 17 (Confidence: 4.4683):
+howard and his co-stars all give committed performances , but they're often undone by howard's self-conscious attempts to find a 'literary' filmmaking style to match his subject .
+
+FP 18 (Confidence: 4.3836):
+short and sweet , but also more than anything else slight tadpole pulls back from the consequences of its own actions and revelations .
+
+FP 19 (Confidence: 4.3343):
+hardly a nuanced portrait of a young woman's breakdown , the film nevertheless works up a few scares .
+
+FP 20 (Confidence: 4.3044):
+blessed with a searing lead performance by ryan gosling ( murder by numbers ) , the movie is powerful and provocative . it's also built on a faulty premise , one it follows into melodrama and silliness .
+
+FP 21 (Confidence: 4.2225):
+those unfamiliar with mormon traditions may find the singles ward occasionally bewildering .
+
+FP 22 (Confidence: 4.1589):
+unsurprisingly , the way this all works out makes the women look more like stereotypical caretakers and moral teachers , instead of serious athletes .
+
+FP 23 (Confidence: 4.1147):
+it's a deeply serious movie that cares passionately about its subject , but too often becomes ponderous in its teaching of history , or lost in the intricate connections and multiple timelines of its story .
+
+FP 24 (Confidence: 4.0833):
+un thriller manqu qui tombe sur les nerfs presque ds la premire image .
+
+FP 25 (Confidence: 4.0209):
+a not-so-divine secrets of the ya-ya sisterhood with a hefty helping of re-fried green tomatoes .
+
+FP 26 (Confidence: 3.9328):
+city by the sea is the cinematic equivalent of defensive driving : it's careful , conscientious and makes no major mistakes . but what saves lives on the freeway does not necessarily make for persuasive viewing .
+
+FP 27 (Confidence: 3.9057):
+the film is surprisingly well-directed by brett ratner , who keeps things moving well -- at least until the problematic third act .
+
+FP 28 (Confidence: 3.9022):
+la cinta comienza intentando ser un drama , rpidamente se transforma en una comedia y termina por ser una parodia absolutamente predecible
+
+FP 29 (Confidence: 3.8335):
+kurys never shows why , of all the period's volatile romantic lives , sand and musset are worth particular attention .
+
+FP 30 (Confidence: 3.8242):
+a sensual performance from abbass buoys the flimsy story , but her inner journey is largely unexplored and we're left wondering about this exotic-looking woman whose emotional depths are only hinted at .
+
+FP 31 (Confidence: 3.8033):
+kidman is really the only thing that's worth watching in birthday girl , a film by the stage-trained jez butterworth ( mojo ) that serves as yet another example of the sad decline of british comedies in the post-full monty world .
+
+FP 32 (Confidence: 3.6978):
+meanders between its powerful moments .
+
+FP 33 (Confidence: 3.5992):
+. . . del toro maintains a dark mood that makes the film seem like something to endure instead of enjoy .
+
+FP 34 (Confidence: 3.5771):
+amid the shock and curiosity factors , the film is just a corny examination of a young actress trying to find her way .
+
+FP 35 (Confidence: 3.5101):
+a suffocating rape-payback horror show that hinges on the subgenre's most enabling victim . . . and an ebullient affection for industrial-model meat freezers .
+
+FP 36 (Confidence: 3.4977):
+late marriage's stiffness is unlikely to demonstrate the emotional clout to sweep u . s . viewers off their feet .
+
+FP 37 (Confidence: 3.4967):
+our culture is headed down the toilet with the ferocity of a frozen burrito after an all-night tequila bender  and i know this because i've seen 'jackass : the movie . '
+
+FP 38 (Confidence: 3.4910):
+a plodding look at the french revolution through the eyes of aristocrats .
+
+FP 39 (Confidence: 3.4713):
+scorsese at his best makes gangster films that are equally lovely but also relentlessly brutal and brutally intelligent ; perdition , meanwhile , reads more like driving miss daisy than goodfellas .
+
+FP 40 (Confidence: 3.3912):
+while it is interesting to witness the conflict from the palestinian side , longley's film lacks balance . . . and fails to put the struggle into meaningful historical context .
+
+FP 41 (Confidence: 3.3698):
+watching the film is like reading a times portrait of grief that keeps shifting focus to the journalist who wrote it .
+
+FP 42 (Confidence: 3.3459):
+cacoyannis' vision is far less mature , interpreting the play as a call for pity and sympathy for anachronistic phantasms haunting the imagined glory of their own pasts .
+
+FP 43 (Confidence: 3.2761):
+works on the whodunit level as its larger themes get lost in the murk of its own making
+
+FP 44 (Confidence: 3.2740):
+there are touching moments in etoiles , but for the most part this is a dull , dour documentary on what ought to be a joyful or at least fascinating subject .
+
+FP 45 (Confidence: 3.2682):
+denis o'neill's script avoids the prime sports cliche , a last-second goal to win the championship , but it neglects few others .
+
+FP 46 (Confidence: 3.2588):
+yo , it's the days of our lives meets electric boogaloo .
+
+FP 47 (Confidence: 3.2468):
+super troopers is an odd amalgam of comedy genres , existing somewhere between the often literal riffs of early zucker brothers/abrahams films , and the decidedly foul stylings of their post-modern contemporaries , the farrelly brothers .
+
+FP 48 (Confidence: 3.2408):
+the film never gets over its own investment in conventional arrangements , in terms of love , age , gender , race , and class .
+
+FP 49 (Confidence: 3.2292):
+wallace gets a bit heavy handed with his message at times , and has a visual flair that waxes poetic far too much for our taste .
+
+FP 50 (Confidence: 3.2198):
+[director] byler may yet have a great movie in him , but charlotte sometimes is only half of one .
+
+FP 51 (Confidence: 3.1672):
+kwan makes the mix-and- match metaphors intriguing , while lulling us into torpor with his cultivated allergy to action .
+
+FP 52 (Confidence: 3.0977):
+even if it ultimately disappoints , the picture does have about a matinee admission's worth of funny to keep it afloat .
+
+FP 53 (Confidence: 3.0973):
+unspools like a highbrow , low-key , 102-minute infomercial , blending entrepreneurial zeal with the testimony of satisfied customers .
+
+FP 54 (Confidence: 3.0910):
+even if you feel like you've seen this movie a thousand times before , it is kind of enjoyable thanks mainly to belushi's easy-going likableness .
+
+FP 55 (Confidence: 3.0495):
+kim ki-deok seems to have in mind an ( emotionally at least ) adolescent audience demanding regular shocks and bouts of barely defensible sexual violence to keep it interested .
+
+FP 56 (Confidence: 2.9990):
+a perplexing example of promise unfulfilled , despite many charming moments .
+
+FP 57 (Confidence: 2.9676):
+the filmmaker ascends , literally , to the olympus of the art world , but he would have done well to end this flawed , dazzling series with the raising of something other than his own cremaster .
+
+FP 58 (Confidence: 2.9666):
+observant intelligence constantly vies with pretension -- and sometimes plain wacky implausibility -- throughout maelstrom .
+
+FP 59 (Confidence: 2.8685):
+outer-space buffs might love this film , but others will find its pleasures intermittent .
+
+FP 60 (Confidence: 2.8307):
+the stripped-down approach does give the film a certain timeless quality , but the measured pace and lack of dramatic inflection can also seem tedious .
+
+FP 61 (Confidence: 2.7864):
+a hit- and-miss affair , consistently amusing but not as outrageous or funny as cho may have intended or as imaginative as one might have hoped .
+
+FP 62 (Confidence: 2.7830):
+an affable but undernourished romantic comedy that fails to match the freshness of the actress-producer and writer's previous collaboration , miss congeniality .
+
+FP 63 (Confidence: 2.7809):
+we are left with a superficial snapshot that , however engaging , is insufficiently enlightening and inviting .
+
+FP 64 (Confidence: 2.7801):
+always destined to be measured against anthony asquith's acclaimed 1952 screen adaptation .
+
+FP 65 (Confidence: 2.7799):
+the film's stagecrafts are intimate and therefore bolder than the otherwise calculated artifice that defines and overwhelms the film's production design .
+
+FP 66 (Confidence: 2.7570):
+a film without surprise geared toward maximum comfort and familiarity .
+
+FP 67 (Confidence: 2.7200):
+though moonlight mile is replete with acclaimed actors and actresses and tackles a subject that's potentially moving , the movie is too predictable and too self-conscious to reach a level of high drama .
+
+FP 68 (Confidence: 2.6896):
+a sincere but dramatically conflicted gay coming-of-age tale .
+
+FP 69 (Confidence: 2.6660):
+sunshine state lacks the kind of dynamic that limbo offers , and in some ways is a rather indulgent piece .
+
+FP 70 (Confidence: 2.6590):
+an eccentric little comic/thriller deeply in love with its own quirky personality .
+
+FP 71 (Confidence: 2.6403):
+this may be the dumbest , sketchiest movie on record about an aspiring writer's coming-of-age .
+
+FP 72 (Confidence: 2.6198):
+stephen earnhart's documentary is a decomposition of healthy eccentric inspiration and ambition  wearing a cloak of unsentimental , straightforward text  when it's really an exercise in gross romanticization of the delusional personality type .
+
+FP 73 (Confidence: 2.6170):
+an unremittingly ugly movie to look at , listen to , and think about , it is quite possibly the sturdiest example yet of why the dv revolution has cheapened the artistry of making a film .
+
+FP 74 (Confidence: 2.6120):
+the director knows how to apply textural gloss , but his portrait of sex-as-war is strictly sitcom .
+
+FP 75 (Confidence: 2.5965):
+the gifted crudup has the perfect face to play a handsome blank yearning to find himself , and his cipherlike personality and bad behavior would play fine if the movie knew what to do with him .
+
+FP 76 (Confidence: 2.5767):
+involves two mysteries -- one it gives away and the other featuring such badly drawn characters that its outcome hardly matters .
+
+FP 77 (Confidence: 2.5750):
+it puts washington , as honest working man john q . archibald , on a pedestal , then keeps lifting the pedestal higher .
+
+FP 78 (Confidence: 2.5296):
+beautifully filmed and well acted . . . but admittedly problematic in its narrative specifics .
+
+FP 79 (Confidence: 2.5218):
+a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of self-importance . . .
+
+FP 80 (Confidence: 2.5066):
+puportedly " based on true events , " a convolution of language that suggests it's impossible to claim that it is " based on a true story " with a straight face .
+
+FP 81 (Confidence: 2.5053):
+although . . . visually striking and slickly staged , it's also cold , grey , antiseptic and emotionally desiccated .
+
+FP 82 (Confidence: 2.5031):
+a movie that hovers somewhere between an acute character study and a trite power struggle .
+
+FP 83 (Confidence: 2.4905):
+pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r . abrams , in their feature debut .
+
+FP 84 (Confidence: 2.4877):
+here's a self-congratulatory 3d imax rah-rah .
+
+FP 85 (Confidence: 2.4855):
+more of an intriguing curiosity than a gripping thriller .
+
+FP 86 (Confidence: 2.4596):
+a spooky yarn of demonic doings on the high seas that works better the less the brain is engaged .
+
+FP 87 (Confidence: 2.3877):
+starts as an intense political and psychological thriller but is sabotaged by ticking time bombs and other hollywood-action cliches .
+
+FP 88 (Confidence: 2.3747):
+this is a children's film in the truest sense . it's packed with adventure and a worthwhile environmental message , so it's great for the kids . parents , on the other hand , will be ahead of the plot at all times , and there isn't enough clever innuendo to fil
+
+FP 89 (Confidence: 2.3741):
+sex with strangers will shock many with its unblinking frankness . but what is missing from it all is a moral . what is the filmmakers' point ? why did they deem it necessary to document all this emotional misery ?
+
+FP 90 (Confidence: 2.3469):
+mariah carey gives us another peek at some of the magic we saw in glitter here in wisegirls .
+
+FP 91 (Confidence: 2.3274):
+for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam .
+
+FP 92 (Confidence: 2.2996):
+while holm is terrific as both men and hjejle quite appealing , the film fails to make the most out of the intriguing premise .
+
+FP 93 (Confidence: 2.2842):
+hilarious musical comedy though stymied by accents thick as mud .
+
+FP 94 (Confidence: 2.2543):
+'es en verdad una pena que mandoki est realizando cintas tan malas desde hace algn tiempo , pues talento tiene , pero quin sabe dnde lo tiene escondido . '
+
+FP 95 (Confidence: 2.2313):
+lan yu is certainly a serviceable melodrama , but it doesn't even try for the greatness that happy together shoots for ( and misses ) .
+
+FP 96 (Confidence: 2.2200):
+gets the look and the period trappings right , but it otherwise drowns in a sea of visual and verbal clichs .
+
+FP 97 (Confidence: 2.2047):
+no matter how you slice it , mark wahlberg and thandie newton are not hepburn and grant , two cinematic icons with chemistry galore .
+
+FP 98 (Confidence: 2.1878):
+perceptive in its vision of nascent industrialized world politics as a new art form , but far too clunky , didactic and saddled with scenes that seem simply an ill fit for this movie .
+
+FP 99 (Confidence: 2.1559):
+a gorgeous , somnolent show that is splendidly mummified and thoroughly unsurprising .
+
+FP 100 (Confidence: 2.1407):
+the film doesn't really care about the thousands of americans who die hideously , it cares about how ryan meets his future wife and makes his start at the cia .
+
+FP 101 (Confidence: 2.0751):
+outrageousness is all plympton seemed to be going for this time . we miss the quirky amazement that used to come along for an integral part of the ride .
+
+FP 102 (Confidence: 2.0404):
+far too clever by half , howard's film is really a series of strung-together moments , with all the spaces in between filled with fantasies , daydreams , memories and one fantastic visual trope after another .
+
+FP 103 (Confidence: 2.0394):
+imagine ( if possible ) a pasolini film without passion or politics , or an almodovar movie without beauty or humor , and you have some idea of the glum , numb experience of watching o fantasma .
+
+FP 104 (Confidence: 2.0011):
+while certainly more naturalistic than its australian counterpart , amari's film falls short in building the drama of lilia's journey .
+

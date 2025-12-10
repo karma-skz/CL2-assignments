@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="Attribution" type="rst" />
+			<rel name="Background" type="rst" />
+			<rel name="Condition" type="rst" />
+			<rel name="Contrast" type="multinuc" />
+			<rel name="Elaboration" type="rst" />
+			<rel name="Explanation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="Attribution">I don't believe</segment>
+		<segment id="2" parent="14" relname="span">that endorsing the Nuclear Freeze Initiative is the right step for California Common Cause.</segment>
+		<segment id="3" parent="15" relname="Contrast">Tempting as it may be,</segment>
+		<segment id="4" parent="15" relname="span">we shouldn't embrace every popular issue</segment>
+		<segment id="5" parent="4" relname="Elaboration">that comes along.</segment>
+		<segment id="6" parent="17" relname="Background">When we do so,</segment>
+		<segment id="7" parent="17" relname="span">we use precious, limited resources</segment>
+		<segment id="8" parent="7" relname="Elaboration">where other players with superior resources are already doing an adequate job.</segment>
+		<segment id="9" parent="21" relname="Attribution">Rather, I think</segment>
+		<segment id="10" parent="21" relname="span">we will be stronger and more effective</segment>
+		<segment id="11" parent="20" relname="span">if we stick to those issues of governmental structure and process, broadly defined,</segment>
+		<segment id="12" parent="11" relname="Elaboration">that have formed the core of our agenda for years.</segment>
+		<group id="14" type="span" parent="24" relname="span"/>
+		<group id="23" type="multinuc" parent="14" relname="Explanation"/>
+		<group id="19" type="span" parent="23" relname="Contrast"/>
+		<group id="16" type="span" parent="19" relname="span"/>
+		<group id="15" type="span" parent="16" relname="span"/>
+		<group id="18" type="span" parent="16" relname="Explanation"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="22" type="span" parent="23" relname="Contrast"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="20" type="span" parent="10" relname="Condition"/>
+		<group id="24" type="span"/>
+	</body>
+</rst>

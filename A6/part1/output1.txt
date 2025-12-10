@@ -1,0 +1,67 @@
+Loaded 76049 training instances
+Split: 53234 training (70%), 22815 test (30%)
+
+Task 2: Saved 376 content words with senses to 'word_senses.json'
+
+Task 3 - MFS Baseline: Precision=0.1360, Recall=0.1360, F1=0.1360
+Saved MFS confusion matrix to 'part1_plots/mfs_confusion_matrix.png'
+
+======================================================================
+LESK ALGORITHM EXAMPLE
+======================================================================
+Target Word: 'keep' (POS: VB)
+Gold Sense: keep%2:42:07::
+Context (±5 words): ['the', 'continue', 'keep', 'will', 'review', 'committee', 'situation', 'relating', 'to', 'under']...
+
+  keep.v.01:
+    Definition: keep in a certain state, position, or activity; e.g.,
+    Overlap: 2 words
+    Common: ['the', 'keep']
+
+  continue.v.01:
+    Definition: continue a certain state, condition, or activity
+    Overlap: 4 words
+    Common: ['to', 'the', 'keep', 'continue']
+
+  keep.v.03:
+    Definition: retain possession of
+    Overlap: 1 words
+    Common: ['keep']
+
+  prevent.v.02:
+    Definition: stop (someone or something) from doing something or being in a certain state
+    Overlap: 2 words
+    Common: ['the', 'keep']
+
+  observe.v.09:
+    Definition: conform one's action or practice to
+    Overlap: 3 words
+    Common: ['to', 'the', 'keep']
+
+  SELECTED: continue.v.01
+  Max Overlap: 4
+======================================================================
+
+
+Task 4 - Simplified Lesk: Precision=0.0959, Recall=0.0959, F1=0.0959
+Saved Lesk confusion matrix to 'part1_plots/lesk_confusion_matrix.png'
+
+Improved Lesk: Precision=0.1314, Recall=0.1314, F1=0.1314
+Saved Improved Lesk confusion matrix to 'part1_plots/improved_lesk_confusion_matrix.png'
+
+Training Naive Bayes classifiers...
+Trained classifiers for 116 ambiguous words
+
+Naive Bayes: Precision=0.6880, Recall=0.6880, F1=0.6880
+  Trained 116 word-specific classifiers
+Saved Naive Bayes confusion matrix to 'part1_plots/naive_bayes_confusion_matrix.png'
+
+======================================================================
+FINAL COMPARISON (30% Test Set Performance):
+======================================================================
+MFS Baseline:      F1=0.1360 (Precision=0.1360, Recall=0.1360)
+Simplified Lesk:   F1=0.0959 (Precision=0.0959, Recall=0.0959)
+Improved Lesk:     F1=0.1314 (Precision=0.1314, Recall=0.1314)
+Naive Bayes:       F1=0.6880 (Precision=0.6880, Recall=0.6880)
+======================================================================
+

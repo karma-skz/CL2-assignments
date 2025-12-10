@@ -1,0 +1,743 @@
+================================================================================
+NAIVE BAYES - EXAMPLE PREDICTIONS
+================================================================================
+
+
+================================================================================
+TRUE POSITIVES (Correctly predicted as antecedent)
+Total: 1213 examples (showing top 20)
+================================================================================
+
+Example 1:
+  
+--------------------------------------------------------------------------------
+
+Example 2:
+  ID: test-2
+  Pronoun: 'him'
+  Candidate: 'Alonso'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: Between the years 1979-1981, River won four local titles, and became one of the most expensive teams in the world, with a first team (Alonso- Luque) playing in league games and an equally prestigious ...
+
+--------------------------------------------------------------------------------
+
+Example 3:
+  ID: test-4
+  Pronoun: 'his'
+  Candidate: 'Pisciotta'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: At the trial, Pisciotta said: ``Those who have made promises to us are called Bernardo Mattarella, Prince Alliata, the monarchist MP Marchesano and also Signor Scelba, Minister for Home Affairs ... it...
+
+--------------------------------------------------------------------------------
+
+Example 4:
+  ID: test-5
+  Pronoun: 'his'
+  Candidate: 'Eddie'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: It is about a pair of United States Navy shore patrollers (SPs) (Tom Berenger and William McNamara) who must escort a beautiful prisoner (Erika Eleniak), and the troubles they encounter. Eddie Devane ...
+
+--------------------------------------------------------------------------------
+
+Example 5:
+  ID: test-7
+  Pronoun: 'She'
+  Candidate: 'Allison'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: Allison Fischer (born October 19, 1988) is an American singer and actress. Originally from northern New Jersey, Allison had her first professional performance in the Off-Broadway musical King Island C...
+
+--------------------------------------------------------------------------------
+
+Example 6:
+  ID: test-8
+  Pronoun: 'her'
+  Candidate: 'Jeni'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: The monster arrives and bites Jeni's tongue, but David manages to break free and releases the other three, though at the cost of his own life. The remaining trio head back to the cottage to set a trap...
+
+--------------------------------------------------------------------------------
+
+Example 7:
+  ID: test-9
+  Pronoun: 'he'
+  Candidate: 'Malave'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: On June 4, 1973 at the Felt Forum, Madison Square Garden, New York, Malave lost to Ray Lampkin by an eighth-round knockout. Malave took a fight in Boston, Mass. against Greg Joiner, winning by a knock...
+
+--------------------------------------------------------------------------------
+
+Example 8:
+  ID: test-11
+  Pronoun: 'her'
+  Candidate: 'Johnson'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Taken in by S.H.I.E.L.D. she is under the direct supervision of its longtime executive director, Nick Fury, even after the latter's defection from the agency during the events of the ``Secret War'' se...
+
+--------------------------------------------------------------------------------
+
+Example 9:
+  ID: test-13
+  Pronoun: 'His'
+  Candidate: 'Hubbell'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: He was a lawyer in Pulaski County before serving as Mayor of Little Rock from 1979 until he resigned in 1981. He was appointed by Bill Clinton as chief justice of Arkansas State Supreme Court in 1983....
+
+--------------------------------------------------------------------------------
+
+Example 10:
+  ID: test-14
+  Pronoun: 'he'
+  Candidate: 'Hanson'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: He left the Army in 1946. As the recipient of a Fellowship in Composition, Hanson after the war was able to resume his studies at the Conservatorium. Following a year of study with Alex Bernard, the C...
+
+--------------------------------------------------------------------------------
+
+Example 11:
+  ID: test-16
+  Pronoun: 'his'
+  Candidate: 'Spike'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Indeed, Buster was fully intended to exist in place of Spike for the comic book series, until the release of the Fortress Maximus toy in 1987, which included Spike as a Headmaster partner, hence neces...
+
+--------------------------------------------------------------------------------
+
+Example 12:
+  ID: test-18
+  Pronoun: 'her'
+  Candidate: 'Jillian'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: Jennifer Slept Here ended in 1984, enabling her to take a role in the miniseries Ellis Island, co-starring Richard Burton, Faye Dunaway, Ben Vereen and Liam Neeson. Dunaway and Vereen were nominated f...
+
+--------------------------------------------------------------------------------
+
+Example 13:
+  ID: test-19
+  Pronoun: 'her'
+  Candidate: 'Engelke'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: On May 17, 2004, when the very successful Die Harald Schmidt Show left Sat.1, Engelke took over its timeslot with Anke Late Night, which was cancelled due to low ratings a few months later on October ...
+
+--------------------------------------------------------------------------------
+
+Example 14:
+  ID: test-21
+  Pronoun: 'his'
+  Candidate: 'Rabelais'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Rabelais traveled frequently to Rome with his friend Cardinal Jean du Bellay, and lived for a short time in Turin with du Bellay's brother, Guillaume, during which Fran*ois I was his patron. Rabelais ...
+
+--------------------------------------------------------------------------------
+
+Example 15:
+  ID: test-23
+  Pronoun: 'he'
+  Candidate: 'Chaucer'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: After seeing an image of Venus, Vulcan, and Cupid, he deduces that it is a temple to Venus. Chaucer explores the temple until he finds a brass tablet recounting the Aeneid. Chaucer goes into much furt...
+
+--------------------------------------------------------------------------------
+
+Example 16:
+  ID: test-24
+  Pronoun: 'He'
+  Candidate: 'Jones'
+  Features: {'gender': 0, 'dist': 2, 'numagree': 1, 'len': 1}
+  Text: Jones played piano for a concert with the London Symphony Orchestra, with George Martin conducting his Beatles Yellow Submarine Suite. He also wrote a chapter on MIDI for Martin's book Making Music an...
+
+--------------------------------------------------------------------------------
+
+Example 17:
+  ID: test-27
+  Pronoun: 'her'
+  Candidate: 'Kathleen'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Kathleen first appears when Theresa visits her in a prison in London.
+
+--------------------------------------------------------------------------------
+
+Example 18:
+  ID: test-28
+  Pronoun: 'her'
+  Candidate: 'Juliana'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: The central characters are Juliana Crain, Frank Frink, Joe Blake, John Smith, Nobusuke Tagomi, and Takeshi Kido. The series takes place in an alternate 1962. Juliana Crain is a San Francisco woman who...
+
+--------------------------------------------------------------------------------
+
+Example 19:
+  ID: test-30
+  Pronoun: 'his'
+  Candidate: 'Arlo'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: A 1969 film, directed and co-written by Arthur Penn, was based on the true story told in the song, but with the addition of a large number of fictional scenes. This film, also called Alice's Restauran...
+
+--------------------------------------------------------------------------------
+
+Example 20:
+  ID: test-31
+  Pronoun: 'he'
+  Candidate: 'Young'
+  Features: {'gender': 0, 'dist': 2, 'numagree': 1, 'len': 1}
+  Text: He was then at the height of his intellectual powers and current president of Section F of the British Association. Uniquely, Young had also been president of the American Statistical Association (191...
+
+--------------------------------------------------------------------------------
+
+
+================================================================================
+TRUE NEGATIVES (Correctly predicted as NOT antecedent)
+Total: 1221 examples (showing top 20)
+================================================================================
+
+Example 1:
+  ID: test-1
+  Pronoun: 'His'
+  Candidate: 'Bob Suter'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: Upon their acceptance into the Kontinental Hockey League, Dehner left Finland to sign a contract in Germany with EHC M*nchen of the DEL on June 18, 2014. After capturing the German championship with t...
+
+--------------------------------------------------------------------------------
+
+Example 2:
+  ID: test-2
+  Pronoun: 'him'
+  Candidate: 'Alfredo Di St*fano'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 3}
+  Text: Between the years 1979-1981, River won four local titles, and became one of the most expensive teams in the world, with a first team (Alonso- Luque) playing in league games and an equally prestigious ...
+
+--------------------------------------------------------------------------------
+
+Example 3:
+  ID: test-5
+  Pronoun: 'his'
+  Candidate: 'Rock Reilly'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: It is about a pair of United States Navy shore patrollers (SPs) (Tom Berenger and William McNamara) who must escort a beautiful prisoner (Erika Eleniak), and the troubles they encounter. Eddie Devane ...
+
+--------------------------------------------------------------------------------
+
+Example 4:
+  ID: test-7
+  Pronoun: 'She'
+  Candidate: 'Grace Smythe'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Allison Fischer (born October 19, 1988) is an American singer and actress. Originally from northern New Jersey, Allison had her first professional performance in the Off-Broadway musical King Island C...
+
+--------------------------------------------------------------------------------
+
+Example 5:
+  ID: test-9
+  Pronoun: 'he'
+  Candidate: 'Greg Joiner'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: On June 4, 1973 at the Felt Forum, Madison Square Garden, New York, Malave lost to Ray Lampkin by an eighth-round knockout. Malave took a fight in Boston, Mass. against Greg Joiner, winning by a knock...
+
+--------------------------------------------------------------------------------
+
+Example 6:
+  ID: test-10
+  Pronoun: 'her'
+  Candidate: 'Cathy Majeski'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Go Away (Lorrie Morgan song) ``Go Away'' is a song written by Stephony Smith, Cathy Majeski and Sunny Russ, and recorded by American country music artist Lorrie Morgan. It was released in July 1997 as...
+
+--------------------------------------------------------------------------------
+
+Example 7:
+  ID: test-11
+  Pronoun: 'her'
+  Candidate: 'Natasha Romanova'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: Taken in by S.H.I.E.L.D. she is under the direct supervision of its longtime executive director, Nick Fury, even after the latter's defection from the agency during the events of the ``Secret War'' se...
+
+--------------------------------------------------------------------------------
+
+Example 8:
+  ID: test-14
+  Pronoun: 'he'
+  Candidate: 'Alex Bernard'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: He left the Army in 1946. As the recipient of a Fellowship in Composition, Hanson after the war was able to resume his studies at the Conservatorium. Following a year of study with Alex Bernard, the C...
+
+--------------------------------------------------------------------------------
+
+Example 9:
+  ID: test-15
+  Pronoun: 'She'
+  Candidate: 'WPC Ruby Buxton'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 3}
+  Text: Nicola Alexis is a British actress best known for playing the role of WPC Ruby Buxton in the long running ITV drama The Bill. She recently played the lead role in the theatre adaptation of Carl Hiaase...
+
+--------------------------------------------------------------------------------
+
+Example 10:
+  ID: test-17
+  Pronoun: 'She'
+  Candidate: 'Ann Miller'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: In the late 1970s, she toured in musical comedies including Sammy Cahn's Words and Music. After appearing with Mickey Rooney in the play Goodnight Ladies in Chicago, the producers cast Ann Jillian to ...
+
+--------------------------------------------------------------------------------
+
+Example 11:
+  ID: test-19
+  Pronoun: 'her'
+  Candidate: 'Marge Simpson'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: On May 17, 2004, when the very successful Die Harald Schmidt Show left Sat.1, Engelke took over its timeslot with Anke Late Night, which was cancelled due to low ratings a few months later on October ...
+
+--------------------------------------------------------------------------------
+
+Example 12:
+  ID: test-21
+  Pronoun: 'his'
+  Candidate: 'du Bellay'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Rabelais traveled frequently to Rome with his friend Cardinal Jean du Bellay, and lived for a short time in Turin with du Bellay's brother, Guillaume, during which Fran*ois I was his patron. Rabelais ...
+
+--------------------------------------------------------------------------------
+
+Example 13:
+  ID: test-24
+  Pronoun: 'He'
+  Candidate: 'Chris Kimsey'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: Jones played piano for a concert with the London Symphony Orchestra, with George Martin conducting his Beatles Yellow Submarine Suite. He also wrote a chapter on MIDI for Martin's book Making Music an...
+
+--------------------------------------------------------------------------------
+
+Example 14:
+  ID: test-25
+  Pronoun: 'his'
+  Candidate: 'Luca Filippi'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: That opened the door for Racing Engineering's Christian Vietoris to claim second place, the German having done a great job after starting from seventh on the grid, while iSport's Davide Valsecchi made...
+
+--------------------------------------------------------------------------------
+
+Example 15:
+  ID: test-26
+  Pronoun: 'his'
+  Candidate: 'Liang Qichao'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: It explored their interconnection and geographical distribution, and critically evaluated on the life and teachings of important men from each school. It is usually regarded as the first great history...
+
+--------------------------------------------------------------------------------
+
+Example 16:
+  ID: test-30
+  Pronoun: 'his'
+  Candidate: 'Woody Guthrie'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: A 1969 film, directed and co-written by Arthur Penn, was based on the true story told in the song, but with the addition of a large number of fictional scenes. This film, also called Alice's Restauran...
+
+--------------------------------------------------------------------------------
+
+Example 17:
+  ID: test-31
+  Pronoun: 'he'
+  Candidate: 'Charles Blitch'
+  Features: {'gender': 0, 'dist': 2, 'numagree': 1, 'len': 2}
+  Text: He was then at the height of his intellectual powers and current president of Section F of the British Association. Uniquely, Young had also been president of the American Statistical Association (191...
+
+--------------------------------------------------------------------------------
+
+Example 18:
+  ID: test-34
+  Pronoun: 'she'
+  Candidate: 'Tina Cornell'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: Though Grant and Lisa were very happy together, Lisa's ongoing jealousy of Joyce and later Valerie continue to be a problem, and at one point, Grant asked Lisa for a divorce. Lisa pretended to be ill,...
+
+--------------------------------------------------------------------------------
+
+Example 19:
+  ID: test-37
+  Pronoun: 'He'
+  Candidate: 'Ion Mihai Pacepa'
+  Features: {'gender': 0, 'dist': 2, 'numagree': 1, 'len': 3}
+  Text: Soviet secret services have been described as ``the primary instructors of guerrillas worldwide''. According to Ion Mihai Pacepa, KGB General Aleksandr Sakharovsky once said: ``In today's world, when ...
+
+--------------------------------------------------------------------------------
+
+Example 20:
+  ID: test-38
+  Pronoun: 'his'
+  Candidate: 'Thomas Creech'
+  Features: {'gender': 0, 'dist': 2, 'numagree': 1, 'len': 2}
+  Text: Sophia Elisabet Brenner (died 1730), Swedish writer, poet, feminist and salon hostess date not known Thomas Creech (died 1700), English translator and scholar Daniel Defoe (year between 1659 and 1661)...
+
+--------------------------------------------------------------------------------
+
+
+================================================================================
+FALSE POSITIVES (Incorrectly predicted as antecedent)
+Total: 1006 examples (showing top 20)
+================================================================================
+
+Example 1:
+  ID: test-3
+  Pronoun: 'He'
+  Candidate: 'Saddam'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Though his emigration from the country has affected his leadership status, Kamel is still a respected elder of the clan. After the fall of Hussien's regime, many considered Dr. Ali Aladhadh a candidat...
+
+--------------------------------------------------------------------------------
+
+Example 2:
+  ID: test-4
+  Pronoun: 'his'
+  Candidate: 'Alliata'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 0, 'len': 1}
+  Text: At the trial, Pisciotta said: ``Those who have made promises to us are called Bernardo Mattarella, Prince Alliata, the monarchist MP Marchesano and also Signor Scelba, Minister for Home Affairs ... it...
+
+--------------------------------------------------------------------------------
+
+Example 3:
+  ID: test-6
+  Pronoun: 'her'
+  Candidate: 'Keller'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: The others were Adam Baldwin (Jayne Cobb in Firefly) who played Colonel Dave Dixon, and Morena Baccarin (Inara Serra in Firefly) who played Adria. Executive producer Martin Gero created the character ...
+
+--------------------------------------------------------------------------------
+
+Example 4:
+  ID: test-8
+  Pronoun: 'her'
+  Candidate: 'Sophie'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: The monster arrives and bites Jeni's tongue, but David manages to break free and releases the other three, though at the cost of his own life. The remaining trio head back to the cottage to set a trap...
+
+--------------------------------------------------------------------------------
+
+Example 5:
+  ID: test-12
+  Pronoun: 'she'
+  Candidate: 'Dolores'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 0, 'len': 1}
+  Text: Neither knows the truth about their respective pasts. When Dona Valeria finds out that Fernando Jose is in a relationship, she gets mad at her son for dating someone beneath their social status. Dolor...
+
+--------------------------------------------------------------------------------
+
+Example 6:
+  ID: test-12
+  Pronoun: 'she'
+  Candidate: 'Rosalinda'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: Neither knows the truth about their respective pasts. When Dona Valeria finds out that Fernando Jose is in a relationship, she gets mad at her son for dating someone beneath their social status. Dolor...
+
+--------------------------------------------------------------------------------
+
+Example 7:
+  ID: test-13
+  Pronoun: 'His'
+  Candidate: 'Clinton'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: He was a lawyer in Pulaski County before serving as Mayor of Little Rock from 1979 until he resigned in 1981. He was appointed by Bill Clinton as chief justice of Arkansas State Supreme Court in 1983....
+
+--------------------------------------------------------------------------------
+
+Example 8:
+  ID: test-16
+  Pronoun: 'his'
+  Candidate: 'Buster'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Indeed, Buster was fully intended to exist in place of Spike for the comic book series, until the release of the Fortress Maximus toy in 1987, which included Spike as a Headmaster partner, hence neces...
+
+--------------------------------------------------------------------------------
+
+Example 9:
+  ID: test-18
+  Pronoun: 'her'
+  Candidate: 'Dunaway'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: Jennifer Slept Here ended in 1984, enabling her to take a role in the miniseries Ellis Island, co-starring Richard Burton, Faye Dunaway, Ben Vereen and Liam Neeson. Dunaway and Vereen were nominated f...
+
+--------------------------------------------------------------------------------
+
+Example 10:
+  ID: test-20
+  Pronoun: 'He'
+  Candidate: 'Filippo'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Antonio di Filippo di Lorenzo Niccolini (Florence, 1701--1769) was an Italian abbot, jurist and scholar, who was considered one of the leading figures of eighteenth-century Tuscany. He was born into a...
+
+--------------------------------------------------------------------------------
+
+Example 11:
+  ID: test-22
+  Pronoun: 'her'
+  Candidate: 'Sarah'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: The team spends some time in a beach-house on the West Coast, living with a semi-sentient housemaid defensive robot. There have been moments of friction as the rest of the team is still adjusting to S...
+
+--------------------------------------------------------------------------------
+
+Example 12:
+  ID: test-23
+  Pronoun: 'he'
+  Candidate: 'Aeneas'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 0, 'len': 1}
+  Text: After seeing an image of Venus, Vulcan, and Cupid, he deduces that it is a temple to Venus. Chaucer explores the temple until he finds a brass tablet recounting the Aeneid. Chaucer goes into much furt...
+
+--------------------------------------------------------------------------------
+
+Example 13:
+  ID: test-27
+  Pronoun: 'her'
+  Candidate: 'Theresa'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: Kathleen first appears when Theresa visits her in a prison in London.
+
+--------------------------------------------------------------------------------
+
+Example 14:
+  ID: test-28
+  Pronoun: 'her'
+  Candidate: 'Trudy'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: The central characters are Juliana Crain, Frank Frink, Joe Blake, John Smith, Nobusuke Tagomi, and Takeshi Kido. The series takes place in an alternate 1962. Juliana Crain is a San Francisco woman who...
+
+--------------------------------------------------------------------------------
+
+Example 15:
+  ID: test-29
+  Pronoun: 'she'
+  Candidate: 'Karen'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 0, 'len': 1}
+  Text: The second season was released on December 16, 2016. Joe returns to New York to hand over the film to Smith and request for his resignation, but Smith denies his request before delivering the film to ...
+
+--------------------------------------------------------------------------------
+
+Example 16:
+  ID: test-29
+  Pronoun: 'she'
+  Candidate: 'Juliana'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: The second season was released on December 16, 2016. Joe returns to New York to hand over the film to Smith and request for his resignation, but Smith denies his request before delivering the film to ...
+
+--------------------------------------------------------------------------------
+
+Example 17:
+  ID: test-32
+  Pronoun: 'his'
+  Candidate: 'Phelps'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 0, 'len': 1}
+  Text: At a later period Henry Scobell, clerk of Parliament, was required to deliver to John Phelps all papers and books returned from Scotland touching delinquents and sequestrations.'' A petition having be...
+
+--------------------------------------------------------------------------------
+
+Example 18:
+  ID: test-33
+  Pronoun: 'his'
+  Candidate: 'Tom'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: A short while later, Michael decided that he wanted to play a role in his son's life, and tried to get Lisa to marry him, but by this time, she wanted nothing to do with him. Around the same time, Lis...
+
+--------------------------------------------------------------------------------
+
+Example 19:
+  ID: test-35
+  Pronoun: 'her'
+  Candidate: 'Lisa'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 1}
+  Text: He and Lisa separated, but when Tina attempted to seduce him, he realized that Lisa had been right all along. Though he claimed to be through with scheming women, Joyce now reentered Grant's life, pre...
+
+--------------------------------------------------------------------------------
+
+Example 20:
+  ID: test-36
+  Pronoun: 'her'
+  Candidate: 'Solis'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 1}
+  Text: A studio version of the song is available on the ``Deluxe Edition'' of her album. Sol*s was so impressed by the performance that he invited Ana*s as a special guest and opening act for his concert in ...
+
+--------------------------------------------------------------------------------
+
+
+================================================================================
+FALSE NEGATIVES (Missed antecedent)
+Total: 560 examples (showing top 20)
+================================================================================
+
+Example 1:
+  ID: test-3
+  Pronoun: 'He'
+  Candidate: 'Ali Aladhadh'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Though his emigration from the country has affected his leadership status, Kamel is still a respected elder of the clan. After the fall of Hussien's regime, many considered Dr. Ali Aladhadh a candidat...
+
+--------------------------------------------------------------------------------
+
+Example 2:
+  ID: test-6
+  Pronoun: 'her'
+  Candidate: 'Jewel Staite'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: The others were Adam Baldwin (Jayne Cobb in Firefly) who played Colonel Dave Dixon, and Morena Baccarin (Inara Serra in Firefly) who played Adria. Executive producer Martin Gero created the character ...
+
+--------------------------------------------------------------------------------
+
+Example 3:
+  ID: test-10
+  Pronoun: 'her'
+  Candidate: 'Lorrie Morgan'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Go Away (Lorrie Morgan song) ``Go Away'' is a song written by Stephony Smith, Cathy Majeski and Sunny Russ, and recorded by American country music artist Lorrie Morgan. It was released in July 1997 as...
+
+--------------------------------------------------------------------------------
+
+Example 4:
+  ID: test-15
+  Pronoun: 'She'
+  Candidate: 'Nicola Alexis'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Nicola Alexis is a British actress best known for playing the role of WPC Ruby Buxton in the long running ITV drama The Bill. She recently played the lead role in the theatre adaptation of Carl Hiaase...
+
+--------------------------------------------------------------------------------
+
+Example 5:
+  ID: test-17
+  Pronoun: 'She'
+  Candidate: 'Ann Jillian'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: In the late 1970s, she toured in musical comedies including Sammy Cahn's Words and Music. After appearing with Mickey Rooney in the play Goodnight Ladies in Chicago, the producers cast Ann Jillian to ...
+
+--------------------------------------------------------------------------------
+
+Example 6:
+  ID: test-20
+  Pronoun: 'He'
+  Candidate: 'Antonio di Filippo di Lorenzo Niccolini'
+  Features: {'gender': 0, 'dist': 2, 'numagree': 1, 'len': 4}
+  Text: Antonio di Filippo di Lorenzo Niccolini (Florence, 1701--1769) was an Italian abbot, jurist and scholar, who was considered one of the leading figures of eighteenth-century Tuscany. He was born into a...
+
+--------------------------------------------------------------------------------
+
+Example 7:
+  ID: test-22
+  Pronoun: 'her'
+  Candidate: 'Caitlin Fairchild'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: The team spends some time in a beach-house on the West Coast, living with a semi-sentient housemaid defensive robot. There have been moments of friction as the rest of the team is still adjusting to S...
+
+--------------------------------------------------------------------------------
+
+Example 8:
+  ID: test-25
+  Pronoun: 'his'
+  Candidate: 'Oliver Turvey'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: That opened the door for Racing Engineering's Christian Vietoris to claim second place, the German having done a great job after starting from seventh on the grid, while iSport's Davide Valsecchi made...
+
+--------------------------------------------------------------------------------
+
+Example 9:
+  ID: test-26
+  Pronoun: 'his'
+  Candidate: 'Huang Zongxi'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: It explored their interconnection and geographical distribution, and critically evaluated on the life and teachings of important men from each school. It is usually regarded as the first great history...
+
+--------------------------------------------------------------------------------
+
+Example 10:
+  ID: test-32
+  Pronoun: 'his'
+  Candidate: 'Earl of Crawford'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 3}
+  Text: At a later period Henry Scobell, clerk of Parliament, was required to deliver to John Phelps all papers and books returned from Scotland touching delinquents and sequestrations.'' A petition having be...
+
+--------------------------------------------------------------------------------
+
+Example 11:
+  ID: test-37
+  Pronoun: 'He'
+  Candidate: 'Aleksandr Sakharovsky'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Soviet secret services have been described as ``the primary instructors of guerrillas worldwide''. According to Ion Mihai Pacepa, KGB General Aleksandr Sakharovsky once said: ``In today's world, when ...
+
+--------------------------------------------------------------------------------
+
+Example 12:
+  ID: test-38
+  Pronoun: 'his'
+  Candidate: 'Daniel Defoe'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Sophia Elisabet Brenner (died 1730), Swedish writer, poet, feminist and salon hostess date not known Thomas Creech (died 1700), English translator and scholar Daniel Defoe (year between 1659 and 1661)...
+
+--------------------------------------------------------------------------------
+
+Example 13:
+  ID: test-39
+  Pronoun: 'his'
+  Candidate: 'Michael Madden'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: Of the 3,464 Medals of Honor awarded as of September 17, 2009, an estimated 2,018 have been awarded to Irish-American recipients, more than twice the number awarded any other ethnic group; 257 Irish-b...
+
+--------------------------------------------------------------------------------
+
+Example 14:
+  ID: test-43
+  Pronoun: 'he'
+  Candidate: 'Bao Daoyi'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: One day before the battle, the astronomer- eunuch Pu Wenying came to see Bao Daoyi, warning him that he noticed an unlucky omen in the skies and urging Bao not to go to war. Bao Daoyi is furious after...
+
+--------------------------------------------------------------------------------
+
+Example 15:
+  ID: test-46
+  Pronoun: 'him'
+  Candidate: 'Liu Bei'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: When Liu Bei heard of Liu Cong's surrender, he led his followers (both troops and civilians) on an exodus southward to Xiakou, engaging Cao Cao's forces in a brief skirmish at the Battle of Changban a...
+
+--------------------------------------------------------------------------------
+
+Example 16:
+  ID: test-47
+  Pronoun: 'He'
+  Candidate: 'Friedrich Stampfer'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: It published articles by Leon Trotsky, but would not publish any by Vladimir Lenin. During the First World War Vorw*rts opposed the SPD's Burgfriedenspolitik in favour of pacifism and neutrality until...
+
+--------------------------------------------------------------------------------
+
+Example 17:
+  ID: test-52
+  Pronoun: 'her'
+  Candidate: 'Sigourney Weaver'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: Rosamond Carr & a Lifetime in Rwanda, a documentary project about her life and on which Carr acted as advisor, was produced by Standfast Productions Ltd., directed by Eamonn Gearon and photographed by...
+
+--------------------------------------------------------------------------------
+
+Example 18:
+  ID: test-54
+  Pronoun: 'She'
+  Candidate: 'Ann Marie'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: On January 13, 2010, she performed for Ringo Starr with Ben Harper and the Relentless7 on The Daily Show to promote Starr's new album, Y Not. She again played with them and Joan Osborne on January 14,...
+
+--------------------------------------------------------------------------------
+
+Example 19:
+  ID: test-55
+  Pronoun: 'He'
+  Candidate: 'Nikola Stojanovi*'
+  Features: {'gender': 0, 'dist': 1, 'numagree': 1, 'len': 2}
+  Text: However, the authority of the Diet did include all judicial and executive power in the country itself. The legislative power belonged to the Emperor who was the only one to approve new laws. Nikola St...
+
+--------------------------------------------------------------------------------
+
+Example 20:
+  ID: test-56
+  Pronoun: 'she'
+  Candidate: 'Rachel Holt'
+  Features: {'gender': 0, 'dist': 0, 'numagree': 1, 'len': 2}
+  Text: B3, wurlitzer, accordion John Avila -- bass, moog pedals Marcus Praed -- bass, additional guitar, backing vocals, programming, mixing Annette Niermann -- backing vocals Janet Carroll -- backing vocals...
+
+--------------------------------------------------------------------------------
+

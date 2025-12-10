@@ -1,0 +1,28 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="Elaboration" type="rst" />
+			<rel name="Explanation" type="rst" />
+			<rel name="Joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="10" relname="span">Our knowledge of ancient shipbuilding techniques, for example, is dependent on the work of archaeologists</segment>
+		<segment id="2" parent="1" relname="Elaboration">who have painstakingly excavated remains of ships themselves.</segment>
+		<segment id="3" parent="15" relname="span">The contents of shipwrecks are an equally valuable archaeological resource.</segment>
+		<segment id="4" parent="5" relname="Explanation">Since the objects in a wreck represent a single moment in time,</segment>
+		<segment id="5" parent="11" relname="span">they provide better chronological information than even the most carefully excavated terrestrial site.</segment>
+		<segment id="6" parent="12" relname="span">Moreover, perishable items such as foodstuffs,</segment>
+		<segment id="7" parent="6" relname="Elaboration">which do not survive well on land,</segment>
+		<segment id="8" parent="13" relname="same-unit">are often preserved underwater.</segment>
+		<group id="10" type="span" parent="16" relname="Joint"/>
+		<group id="15" type="span" parent="16" relname="Joint"/>
+		<group id="14" type="span" parent="3" relname="Explanation"/>
+		<group id="11" type="span" parent="14" relname="span"/>
+		<group id="13" type="multinuc" parent="11" relname="Elaboration"/>
+		<group id="12" type="span" parent="13" relname="same-unit"/>
+		<group id="16" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,640 @@
+================================================================================
+NAIVE BAYES CLASSIFICATION EXAMPLES
+================================================================================
+
+================================================================================
+TRUE POSITIVES (TP): Correctly Predicted Antecedent
+Total: 299, Showing: 25
+================================================================================
+
+--- Example 1 ---
+ID: test-13
+Text: He was a lawyer in Pulaski County before serving as Mayor of Little Rock from 1979 until he resigned in 1981. He was appointed by Bill Clinton as chief justice of Arkansas State Supreme Court in 1983....
+Pronoun: 'His'
+True Answer: 'Hubbell'
+Predicted: 'Hubbell' (Score: -0.9230)
+Result: ✓ CORRECT
+
+--- Example 2 ---
+ID: test-14
+Text: He left the Army in 1946. As the recipient of a Fellowship in Composition, Hanson after the war was able to resume his studies at the Conservatorium. Following a year of study with Alex Bernard, the C...
+Pronoun: 'he'
+True Answer: 'Hanson'
+Predicted: 'Hanson' (Score: -1.5638)
+Result: ✓ CORRECT
+
+--- Example 3 ---
+ID: test-15
+Text: Nicola Alexis is a British actress best known for playing the role of WPC Ruby Buxton in the long running ITV drama The Bill. She recently played the lead role in the theatre adaptation of Carl Hiaase...
+Pronoun: 'She'
+True Answer: 'Nicola Alexis'
+Predicted: 'Nicola Alexis' (Score: 0.1553)
+Result: ✓ CORRECT
+
+--- Example 4 ---
+ID: test-16
+Text: Indeed, Buster was fully intended to exist in place of Spike for the comic book series, until the release of the Fortress Maximus toy in 1987, which included Spike as a Headmaster partner, hence neces...
+Pronoun: 'his'
+True Answer: 'Spike'
+Predicted: 'Spike' (Score: -1.5080)
+Result: ✓ CORRECT
+
+--- Example 5 ---
+ID: test-17
+Text: In the late 1970s, she toured in musical comedies including Sammy Cahn's Words and Music. After appearing with Mickey Rooney in the play Goodnight Ladies in Chicago, the producers cast Ann Jillian to ...
+Pronoun: 'She'
+True Answer: 'Ann Jillian'
+Predicted: 'Ann Jillian' (Score: -1.3791)
+Result: ✓ CORRECT
+
+--- Example 6 ---
+ID: test-19
+Text: On May 17, 2004, when the very successful Die Harald Schmidt Show left Sat.1, Engelke took over its timeslot with Anke Late Night, which was cancelled due to low ratings a few months later on October ...
+Pronoun: 'her'
+True Answer: 'Engelke'
+Predicted: 'Engelke' (Score: -1.3212)
+Result: ✓ CORRECT
+
+--- Example 7 ---
+ID: test-21
+Text: Rabelais traveled frequently to Rome with his friend Cardinal Jean du Bellay, and lived for a short time in Turin with du Bellay's brother, Guillaume, during which Fran*ois I was his patron. Rabelais ...
+Pronoun: 'his'
+True Answer: 'Rabelais'
+Predicted: 'Rabelais' (Score: -2.3978)
+Result: ✓ CORRECT
+
+--- Example 8 ---
+ID: test-24
+Text: Jones played piano for a concert with the London Symphony Orchestra, with George Martin conducting his Beatles Yellow Submarine Suite. He also wrote a chapter on MIDI for Martin's book Making Music an...
+Pronoun: 'He'
+True Answer: 'Jones'
+Predicted: 'Jones' (Score: -0.0353)
+Result: ✓ CORRECT
+
+--- Example 9 ---
+ID: test-30
+Text: A 1969 film, directed and co-written by Arthur Penn, was based on the true story told in the song, but with the addition of a large number of fictional scenes. This film, also called Alice's Restauran...
+Pronoun: 'his'
+True Answer: 'Arlo'
+Predicted: 'Arlo' (Score: -1.2551)
+Result: ✓ CORRECT
+
+--- Example 10 ---
+ID: test-34
+Text: Though Grant and Lisa were very happy together, Lisa's ongoing jealousy of Joyce and later Valerie continue to be a problem, and at one point, Grant asked Lisa for a divorce. Lisa pretended to be ill,...
+Pronoun: 'she'
+True Answer: 'Lisa'
+Predicted: 'Lisa' (Score: -1.0819)
+Result: ✓ CORRECT
+
+--- Example 11 ---
+ID: test-43
+Text: One day before the battle, the astronomer- eunuch Pu Wenying came to see Bao Daoyi, warning him that he noticed an unlucky omen in the skies and urging Bao not to go to war. Bao Daoyi is furious after...
+Pronoun: 'he'
+True Answer: 'Bao Daoyi'
+Predicted: 'Bao Daoyi' (Score: -1.1440)
+Result: ✓ CORRECT
+
+--- Example 12 ---
+ID: test-65
+Text: Philippe Burty (6 February 1830 -- 3 June 1890) was a French art critic. He contributed to the popularization of Japonism and the revival of etching, supported the Impressionsts, and published the let...
+Pronoun: 'He'
+True Answer: 'Philippe Burty'
+Predicted: 'Philippe Burty' (Score: -0.0353)
+Result: ✓ CORRECT
+
+--- Example 13 ---
+ID: test-77
+Text: White has held positions as finance chair for the Democratic National Committee and as finance co-chair for Hillary Clinton's 2008 presidential campaign. She has been involved in fundraising for her 2...
+Pronoun: 'She'
+True Answer: 'White'
+Predicted: 'White' (Score: 0.1553)
+Result: ✓ CORRECT
+
+--- Example 14 ---
+ID: test-81
+Text: She meets Kimiko, a Japanese student, at a bar. Kimiko and Francisca return to Francisca's home but Kimiko is perturbed at Francisca's description of the death of her mother and the statement that Fra...
+Pronoun: 'her'
+True Answer: 'Kimiko'
+Predicted: 'Kimiko' (Score: -1.0427)
+Result: ✓ CORRECT
+
+--- Example 15 ---
+ID: test-82
+Text: Murphy was elevated to the eight-man leadership group for the 2007 season. In early 2007 Murphy replicated his good form of 2006, amassing 30 disposals against eventual premiers Geelong in Round 2. Ho...
+Pronoun: 'his'
+True Answer: 'Murphy'
+Predicted: 'Murphy' (Score: -1.5419)
+Result: ✓ CORRECT
+
+--- Example 16 ---
+ID: test-86
+Text: Shatner referred to The Original Series as ``cartoonish'' in Mind Meld, but later, upon questioning by a reporter, said, ``I never thought it was a cartoon ... I never thought it was beneath me.'' In ...
+Pronoun: 'he'
+True Answer: 'Shatner'
+Predicted: 'Shatner' (Score: -2.3035)
+Result: ✓ CORRECT
+
+--- Example 17 ---
+ID: test-90
+Text: When Amelia visited the Emersons' dig in Amarna, however, Amelia found Radcliffe Emerson ill, and not only nursed him back to health, but also took over part of his duties. Grudgingly, he came to resp...
+Pronoun: 'his'
+True Answer: 'Emerson'
+Predicted: 'Emerson' (Score: -1.4927)
+Result: ✓ CORRECT
+
+--- Example 18 ---
+ID: test-103
+Text: The following season, Michigan returned its top nine scorers and began the season ranked number one in the Associated Press national ranking as Pelinka was part of a quartet of seniors backing up the ...
+Pronoun: 'his'
+True Answer: 'Pelinka'
+Predicted: 'Pelinka' (Score: -0.4710)
+Result: ✓ CORRECT
+
+--- Example 19 ---
+ID: test-104
+Text: Liza Maza (born 8 September 1957) is a Filipina activist who is the lead convenor of the National Anti-Poverty Commission. She was a member of the Philippine House of Representatives, representing the...
+Pronoun: 'She'
+True Answer: 'Liza Maza'
+Predicted: 'Liza Maza' (Score: 0.1553)
+Result: ✓ CORRECT
+
+--- Example 20 ---
+ID: test-116
+Text: Meg's parents are religious zealots who lock Grace in a closet when they are out, and make her fill out exercise book after exercise book with the phrase: ``The path of God is paved with righteousness...
+Pronoun: 'she'
+True Answer: 'Veronica'
+Predicted: 'Veronica' (Score: -0.5682)
+Result: ✓ CORRECT
+
+--- Example 21 ---
+ID: test-128
+Text: He, like the majority of those in the Irish Republican Brotherhood, supported the Anglo-Irish Treaty and was involved in debates against de Valera during the controversy, most especially discussing th...
+Pronoun: 'his'
+True Answer: 'McGarry'
+Predicted: 'McGarry' (Score: 0.2221)
+Result: ✓ CORRECT
+
+--- Example 22 ---
+ID: test-132
+Text: Soon after arriving in New York, Seeff's photographs of the people he encountered on the streets of Manhattan were discovered by the famed graphic designer, Bob Cato. Cato introduced Seeff to the worl...
+Pronoun: 'his'
+True Answer: 'Seeff'
+Predicted: 'Seeff' (Score: -1.5951)
+Result: ✓ CORRECT
+
+--- Example 23 ---
+ID: test-134
+Text: Ruth was the elder of two girls; her younger sister was Hilda Rosebaum (Kahne). Their father, a plant pathologist, died at age 37 of a bacterial infection resulting from a tooth extraction. After thei...
+Pronoun: 'her'
+True Answer: 'Ruth'
+Predicted: 'Ruth' (Score: -2.2449)
+Result: ✓ CORRECT
+
+--- Example 24 ---
+ID: test-138
+Text: Afterwards, Mia gives birth to a healthy baby girl. She and John name their child Leah. The family rents an apartment in Pasadena and, after finding the doll that John had discarded since Annabelle's ...
+Pronoun: 'her'
+True Answer: 'Mia'
+Predicted: 'Mia' (Score: -1.1513)
+Result: ✓ CORRECT
+
+--- Example 25 ---
+ID: test-143
+Text: One such initiative was a tree planting held in 1926 in northern France. Baer also served as vice president of the German Peace Cartel and traveled widely in Europe. Returning to the United States in ...
+Pronoun: 'she'
+True Answer: 'Baer'
+Predicted: 'Baer' (Score: -1.3791)
+Result: ✓ CORRECT
+
+
+================================================================================
+FALSE POSITIVES (FP): Incorrectly Predicted as Antecedent
+Total: 1473, Showing: 25
+================================================================================
+
+--- Example 1 ---
+ID: test-1
+Text: Upon their acceptance into the Kontinental Hockey League, Dehner left Finland to sign a contract in Germany with EHC M*nchen of the DEL on June 18, 2014. After capturing the German championship with t...
+Pronoun: 'His'
+True Answer: 'Dehner'
+Predicted: 'July' (Score: -1.1216)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 2 ---
+ID: test-2
+Text: Between the years 1979-1981, River won four local titles, and became one of the most expensive teams in the world, with a first team (Alonso- Luque) playing in league games and an equally prestigious ...
+Pronoun: 'him'
+True Answer: 'Alonso'
+Predicted: 'Alonso- Luque' (Score: -1.4975)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 3 ---
+ID: test-3
+Text: Though his emigration from the country has affected his leadership status, Kamel is still a respected elder of the clan. After the fall of Hussien's regime, many considered Dr. Ali Aladhadh a candidat...
+Pronoun: 'He'
+True Answer: 'Ali Aladhadh'
+Predicted: 'Saddam' (Score: -1.4519)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 4 ---
+ID: test-4
+Text: At the trial, Pisciotta said: ``Those who have made promises to us are called Bernardo Mattarella, Prince Alliata, the monarchist MP Marchesano and also Signor Scelba, Minister for Home Affairs ... it...
+Pronoun: 'his'
+True Answer: 'Pisciotta'
+Predicted: 'Marchesano' (Score: -0.4710)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 5 ---
+ID: test-5
+Text: It is about a pair of United States Navy shore patrollers (SPs) (Tom Berenger and William McNamara) who must escort a beautiful prisoner (Erika Eleniak), and the troubles they encounter. Eddie Devane ...
+Pronoun: 'his'
+True Answer: 'Eddie'
+Predicted: 'Crispin Glover' (Score: -1.0772)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 6 ---
+ID: test-6
+Text: The others were Adam Baldwin (Jayne Cobb in Firefly) who played Colonel Dave Dixon, and Morena Baccarin (Inara Serra in Firefly) who played Adria. Executive producer Martin Gero created the character ...
+Pronoun: 'her'
+True Answer: 'Jewel Staite'
+Predicted: 'Morena Baccarin' (Score: -1.1205)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 7 ---
+ID: test-7
+Text: Allison Fischer (born October 19, 1988) is an American singer and actress. Originally from northern New Jersey, Allison had her first professional performance in the Off-Broadway musical King Island C...
+Pronoun: 'She'
+True Answer: 'Allison'
+Predicted: 'Allison Fischer' (Score: 0.1553)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 8 ---
+ID: test-8
+Text: The monster arrives and bites Jeni's tongue, but David manages to break free and releases the other three, though at the cost of his own life. The remaining trio head back to the cottage to set a trap...
+Pronoun: 'her'
+True Answer: 'Jeni'
+Predicted: 'The monster' (Score: -1.5798)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 9 ---
+ID: test-9
+Text: On June 4, 1973 at the Felt Forum, Madison Square Garden, New York, Malave lost to Ray Lampkin by an eighth-round knockout. Malave took a fight in Boston, Mass. against Greg Joiner, winning by a knock...
+Pronoun: 'he'
+True Answer: 'Malave'
+Predicted: 'Mass' (Score: -1.3496)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 10 ---
+ID: test-10
+Text: Go Away (Lorrie Morgan song) ``Go Away'' is a song written by Stephony Smith, Cathy Majeski and Sunny Russ, and recorded by American country music artist Lorrie Morgan. It was released in July 1997 as...
+Pronoun: 'her'
+True Answer: 'Lorrie Morgan'
+Predicted: 'Stephony Smith' (Score: -1.3443)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 11 ---
+ID: test-11
+Text: Taken in by S.H.I.E.L.D. she is under the direct supervision of its longtime executive director, Nick Fury, even after the latter's defection from the agency during the events of the ``Secret War'' se...
+Pronoun: 'her'
+True Answer: 'Johnson'
+Predicted: 'S.H.I.E.L.D' (Score: -1.0427)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 12 ---
+ID: test-18
+Text: Jennifer Slept Here ended in 1984, enabling her to take a role in the miniseries Ellis Island, co-starring Richard Burton, Faye Dunaway, Ben Vereen and Liam Neeson. Dunaway and Vereen were nominated f...
+Pronoun: 'her'
+True Answer: 'Jillian'
+Predicted: 'Jennifer Slept' (Score: -1.0335)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 13 ---
+ID: test-20
+Text: Antonio di Filippo di Lorenzo Niccolini (Florence, 1701--1769) was an Italian abbot, jurist and scholar, who was considered one of the leading figures of eighteenth-century Tuscany. He was born into a...
+Pronoun: 'He'
+True Answer: 'Antonio di Filippo di Lorenzo Niccolini'
+Predicted: 'Antonio' (Score: -0.0353)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 14 ---
+ID: test-22
+Text: The team spends some time in a beach-house on the West Coast, living with a semi-sentient housemaid defensive robot. There have been moments of friction as the rest of the team is still adjusting to S...
+Pronoun: 'her'
+True Answer: 'Caitlin Fairchild'
+Predicted: 'Sarah' (Score: -2.2449)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 15 ---
+ID: test-23
+Text: After seeing an image of Venus, Vulcan, and Cupid, he deduces that it is a temple to Venus. Chaucer explores the temple until he finds a brass tablet recounting the Aeneid. Chaucer goes into much furt...
+Pronoun: 'he'
+True Answer: 'Chaucer'
+Predicted: 'Venus' (Score: -1.2332)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 16 ---
+ID: test-25
+Text: That opened the door for Racing Engineering's Christian Vietoris to claim second place, the German having done a great job after starting from seventh on the grid, while iSport's Davide Valsecchi made...
+Pronoun: 'his'
+True Answer: 'Oliver Turvey'
+Predicted: 'Giedo' (Score: -1.5303)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 17 ---
+ID: test-26
+Text: It explored their interconnection and geographical distribution, and critically evaluated on the life and teachings of important men from each school. It is usually regarded as the first great history...
+Pronoun: 'his'
+True Answer: 'Huang Zongxi'
+Predicted: 'Liang Qichao' (Score: -1.0996)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 18 ---
+ID: test-27
+Text: Kathleen first appears when Theresa visits her in a prison in London....
+Pronoun: 'her'
+True Answer: 'Kathleen'
+Predicted: 'Theresa' (Score: -1.6370)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 19 ---
+ID: test-28
+Text: The central characters are Juliana Crain, Frank Frink, Joe Blake, John Smith, Nobusuke Tagomi, and Takeshi Kido. The series takes place in an alternate 1962. Juliana Crain is a San Francisco woman who...
+Pronoun: 'her'
+True Answer: 'Juliana'
+Predicted: 'Takeshi Kido' (Score: -1.0335)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 20 ---
+ID: test-31
+Text: He was then at the height of his intellectual powers and current president of Section F of the British Association. Uniquely, Young had also been president of the American Statistical Association (191...
+Pronoun: 'he'
+True Answer: 'Young'
+Predicted: 'Charles Blitch' (Score: -0.8922)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 21 ---
+ID: test-32
+Text: At a later period Henry Scobell, clerk of Parliament, was required to deliver to John Phelps all papers and books returned from Scotland touching delinquents and sequestrations.'' A petition having be...
+Pronoun: 'his'
+True Answer: 'Earl of Crawford'
+Predicted: 'Scotland' (Score: -1.5348)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 22 ---
+ID: test-33
+Text: A short while later, Michael decided that he wanted to play a role in his son's life, and tried to get Lisa to marry him, but by this time, she wanted nothing to do with him. Around the same time, Lis...
+Pronoun: 'his'
+True Answer: 'Michael'
+Predicted: 'Lisa' (Score: -1.7572)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 23 ---
+ID: test-35
+Text: He and Lisa separated, but when Tina attempted to seduce him, he realized that Lisa had been right all along. Though he claimed to be through with scheming women, Joyce now reentered Grant's life, pre...
+Pronoun: 'her'
+True Answer: 'Joyce'
+Predicted: 'Lisa' (Score: -1.0335)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 24 ---
+ID: test-36
+Text: A studio version of the song is available on the ``Deluxe Edition'' of her album. Sol*s was so impressed by the performance that he invited Ana*s as a special guest and opening act for his concert in ...
+Pronoun: 'her'
+True Answer: 'Anais'
+Predicted: 'Deluxe Edition' (Score: -1.3175)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+--- Example 25 ---
+ID: test-37
+Text: Soviet secret services have been described as ``the primary instructors of guerrillas worldwide''. According to Ion Mihai Pacepa, KGB General Aleksandr Sakharovsky once said: ``In today's world, when ...
+Pronoun: 'He'
+True Answer: 'Aleksandr Sakharovsky'
+Predicted: 'Soviet secret services' (Score: -0.9187)
+Result: ✗ WRONG (Predicted wrong candidate)
+
+
+================================================================================
+FALSE NEGATIVES (FN): Failed to Predict Correct Antecedent
+Total: 1474, Showing: 25
+================================================================================
+
+--- Example 1 ---
+ID: test-1
+Text: Upon their acceptance into the Kontinental Hockey League, Dehner left Finland to sign a contract in Germany with EHC M*nchen of the DEL on June 18, 2014. After capturing the German championship with t...
+Pronoun: 'His'
+True Answer: 'Dehner'
+Predicted: 'July' (Score: -1.1216)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 2 ---
+ID: test-2
+Text: Between the years 1979-1981, River won four local titles, and became one of the most expensive teams in the world, with a first team (Alonso- Luque) playing in league games and an equally prestigious ...
+Pronoun: 'him'
+True Answer: 'Alonso'
+Predicted: 'Alonso- Luque' (Score: -1.4975)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 3 ---
+ID: test-3
+Text: Though his emigration from the country has affected his leadership status, Kamel is still a respected elder of the clan. After the fall of Hussien's regime, many considered Dr. Ali Aladhadh a candidat...
+Pronoun: 'He'
+True Answer: 'Ali Aladhadh'
+Predicted: 'Saddam' (Score: -1.4519)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 4 ---
+ID: test-4
+Text: At the trial, Pisciotta said: ``Those who have made promises to us are called Bernardo Mattarella, Prince Alliata, the monarchist MP Marchesano and also Signor Scelba, Minister for Home Affairs ... it...
+Pronoun: 'his'
+True Answer: 'Pisciotta'
+Predicted: 'Marchesano' (Score: -0.4710)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 5 ---
+ID: test-5
+Text: It is about a pair of United States Navy shore patrollers (SPs) (Tom Berenger and William McNamara) who must escort a beautiful prisoner (Erika Eleniak), and the troubles they encounter. Eddie Devane ...
+Pronoun: 'his'
+True Answer: 'Eddie'
+Predicted: 'Crispin Glover' (Score: -1.0772)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 6 ---
+ID: test-6
+Text: The others were Adam Baldwin (Jayne Cobb in Firefly) who played Colonel Dave Dixon, and Morena Baccarin (Inara Serra in Firefly) who played Adria. Executive producer Martin Gero created the character ...
+Pronoun: 'her'
+True Answer: 'Jewel Staite'
+Predicted: 'Morena Baccarin' (Score: -1.1205)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 7 ---
+ID: test-7
+Text: Allison Fischer (born October 19, 1988) is an American singer and actress. Originally from northern New Jersey, Allison had her first professional performance in the Off-Broadway musical King Island C...
+Pronoun: 'She'
+True Answer: 'Allison'
+Predicted: 'Allison Fischer' (Score: 0.1553)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 8 ---
+ID: test-8
+Text: The monster arrives and bites Jeni's tongue, but David manages to break free and releases the other three, though at the cost of his own life. The remaining trio head back to the cottage to set a trap...
+Pronoun: 'her'
+True Answer: 'Jeni'
+Predicted: 'The monster' (Score: -1.5798)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 9 ---
+ID: test-9
+Text: On June 4, 1973 at the Felt Forum, Madison Square Garden, New York, Malave lost to Ray Lampkin by an eighth-round knockout. Malave took a fight in Boston, Mass. against Greg Joiner, winning by a knock...
+Pronoun: 'he'
+True Answer: 'Malave'
+Predicted: 'Mass' (Score: -1.3496)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 10 ---
+ID: test-10
+Text: Go Away (Lorrie Morgan song) ``Go Away'' is a song written by Stephony Smith, Cathy Majeski and Sunny Russ, and recorded by American country music artist Lorrie Morgan. It was released in July 1997 as...
+Pronoun: 'her'
+True Answer: 'Lorrie Morgan'
+Predicted: 'Stephony Smith' (Score: -1.3443)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 11 ---
+ID: test-11
+Text: Taken in by S.H.I.E.L.D. she is under the direct supervision of its longtime executive director, Nick Fury, even after the latter's defection from the agency during the events of the ``Secret War'' se...
+Pronoun: 'her'
+True Answer: 'Johnson'
+Predicted: 'S.H.I.E.L.D' (Score: -1.0427)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 12 ---
+ID: test-18
+Text: Jennifer Slept Here ended in 1984, enabling her to take a role in the miniseries Ellis Island, co-starring Richard Burton, Faye Dunaway, Ben Vereen and Liam Neeson. Dunaway and Vereen were nominated f...
+Pronoun: 'her'
+True Answer: 'Jillian'
+Predicted: 'Jennifer Slept' (Score: -1.0335)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 13 ---
+ID: test-20
+Text: Antonio di Filippo di Lorenzo Niccolini (Florence, 1701--1769) was an Italian abbot, jurist and scholar, who was considered one of the leading figures of eighteenth-century Tuscany. He was born into a...
+Pronoun: 'He'
+True Answer: 'Antonio di Filippo di Lorenzo Niccolini'
+Predicted: 'Antonio' (Score: -0.0353)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 14 ---
+ID: test-22
+Text: The team spends some time in a beach-house on the West Coast, living with a semi-sentient housemaid defensive robot. There have been moments of friction as the rest of the team is still adjusting to S...
+Pronoun: 'her'
+True Answer: 'Caitlin Fairchild'
+Predicted: 'Sarah' (Score: -2.2449)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 15 ---
+ID: test-23
+Text: After seeing an image of Venus, Vulcan, and Cupid, he deduces that it is a temple to Venus. Chaucer explores the temple until he finds a brass tablet recounting the Aeneid. Chaucer goes into much furt...
+Pronoun: 'he'
+True Answer: 'Chaucer'
+Predicted: 'Venus' (Score: -1.2332)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 16 ---
+ID: test-25
+Text: That opened the door for Racing Engineering's Christian Vietoris to claim second place, the German having done a great job after starting from seventh on the grid, while iSport's Davide Valsecchi made...
+Pronoun: 'his'
+True Answer: 'Oliver Turvey'
+Predicted: 'Giedo' (Score: -1.5303)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 17 ---
+ID: test-26
+Text: It explored their interconnection and geographical distribution, and critically evaluated on the life and teachings of important men from each school. It is usually regarded as the first great history...
+Pronoun: 'his'
+True Answer: 'Huang Zongxi'
+Predicted: 'Liang Qichao' (Score: -1.0996)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 18 ---
+ID: test-27
+Text: Kathleen first appears when Theresa visits her in a prison in London....
+Pronoun: 'her'
+True Answer: 'Kathleen'
+Predicted: 'Theresa' (Score: -1.6370)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 19 ---
+ID: test-28
+Text: The central characters are Juliana Crain, Frank Frink, Joe Blake, John Smith, Nobusuke Tagomi, and Takeshi Kido. The series takes place in an alternate 1962. Juliana Crain is a San Francisco woman who...
+Pronoun: 'her'
+True Answer: 'Juliana'
+Predicted: 'Takeshi Kido' (Score: -1.0335)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 20 ---
+ID: test-31
+Text: He was then at the height of his intellectual powers and current president of Section F of the British Association. Uniquely, Young had also been president of the American Statistical Association (191...
+Pronoun: 'he'
+True Answer: 'Young'
+Predicted: 'Charles Blitch' (Score: -0.8922)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 21 ---
+ID: test-32
+Text: At a later period Henry Scobell, clerk of Parliament, was required to deliver to John Phelps all papers and books returned from Scotland touching delinquents and sequestrations.'' A petition having be...
+Pronoun: 'his'
+True Answer: 'Earl of Crawford'
+Predicted: 'Scotland' (Score: -1.5348)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 22 ---
+ID: test-33
+Text: A short while later, Michael decided that he wanted to play a role in his son's life, and tried to get Lisa to marry him, but by this time, she wanted nothing to do with him. Around the same time, Lis...
+Pronoun: 'his'
+True Answer: 'Michael'
+Predicted: 'Lisa' (Score: -1.7572)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 23 ---
+ID: test-35
+Text: He and Lisa separated, but when Tina attempted to seduce him, he realized that Lisa had been right all along. Though he claimed to be through with scheming women, Joyce now reentered Grant's life, pre...
+Pronoun: 'her'
+True Answer: 'Joyce'
+Predicted: 'Lisa' (Score: -1.0335)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 24 ---
+ID: test-36
+Text: A studio version of the song is available on the ``Deluxe Edition'' of her album. Sol*s was so impressed by the performance that he invited Ana*s as a special guest and opening act for his concert in ...
+Pronoun: 'her'
+True Answer: 'Anais'
+Predicted: 'Deluxe Edition' (Score: -1.3175)
+Result: ✗ WRONG (Failed to find correct answer)
+
+--- Example 25 ---
+ID: test-37
+Text: Soviet secret services have been described as ``the primary instructors of guerrillas worldwide''. According to Ion Mihai Pacepa, KGB General Aleksandr Sakharovsky once said: ``In today's world, when ...
+Pronoun: 'He'
+True Answer: 'Aleksandr Sakharovsky'
+Predicted: 'Soviet secret services' (Score: -0.9187)
+Result: ✗ WRONG (Failed to find correct answer)
+
+
+================================================================================
+TRUE NEGATIVES (TN): Correctly Rejected as Non-Antecedent
+Total: 0, Showing: 0
+================================================================================
+
+No True Negative cases found.
+
+WHY NO TRUE NEGATIVES?
+--------------------------------------------------------------------------------
+In this coreference resolution task, we ALWAYS make exactly one prediction
+per example (selecting the best-scoring candidate). We never predict 'NONE'.
+Therefore:
+  - A True Negative would require: predicting 'no antecedent' when there
+    actually is no antecedent.
+  - Since we always predict a candidate, we can never have TN = 0.
+  - Every prediction is either TP (correct) or FP (wrong candidate chosen).
+  - Every case is either TP (correct) or FN (missed correct candidate).
+

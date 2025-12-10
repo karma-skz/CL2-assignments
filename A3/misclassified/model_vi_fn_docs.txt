@@ -1,0 +1,447 @@
+Model vi - High-Confidence False Negatives (148 documents, threshold=2.0):
+======================================================================
+
+FN 1 (Confidence: 12.5081):
+neither the funniest film that eddie murphy nor robert de niro has ever made , showtime is nevertheless efficiently amusing for a good while . before it collapses into exactly the kind of buddy cop comedy it set out to lampoon , anyway .
+
+FN 2 (Confidence: 10.6481):
+i don't feel the least bit ashamed in admitting that my enjoyment came at the expense of seeing justice served , even if it's a dish that's best served cold .
+
+FN 3 (Confidence: 10.4420):
+i won't argue with anyone who calls 'slackers' dumb , insulting , or childish . . . but i laughed so much that i didn't mind .
+
+FN 4 (Confidence: 10.0216):
+were it not for a sentimental resolution that explains way more about cal than does the movie or the character any good , freundlich's world traveler might have been one of the more daring and surprising american movies of the year .
+
+FN 5 (Confidence: 9.9056):
+this horror-comedy doesn't go for the usual obvious laughs at the expense of cheap-looking monsters -- unless you count elvira's hooters .
+
+FN 6 (Confidence: 9.7825):
+i'd be lying if i said my ribcage didn't ache by the end of kung pow .
+
+FN 7 (Confidence: 9.7290):
+while we no longer possess the lack-of-attention span that we did at seventeen , we had no trouble sitting for blade ii .
+
+FN 8 (Confidence: 9.6965):
+perhaps no picture ever made has more literally showed that the road to hell is paved with good intentions .
+
+FN 9 (Confidence: 9.6962):
+i don't know precisely what to make of steven soderbergh's full frontal , though that didn't stop me from enjoying much of it .
+
+FN 10 (Confidence: 9.6540):
+thumbs up to paxton for not falling into the hollywood trap and making a vanity project with nothing new to offer .
+
+FN 11 (Confidence: 9.6077):
+remember the kind of movie we were hoping " ecks vs . sever " or " xxx " was going to be ? this is it .
+
+FN 12 (Confidence: 9.2650):
+you don't know whether to admire the film's stately nature and call it classicism or be exasperated by a noticeable lack of pace . or both .
+
+FN 13 (Confidence: 8.8105):
+talk to her is so darned assured , we have absolutely no idea who the main characters are until the film is well under way -- and yet it's hard to stop watching .
+
+FN 14 (Confidence: 8.7704):
+on the surface a silly comedy , scotland , pa would be forgettable if it weren't such a clever adaptation of the bard's tragic play .
+
+FN 15 (Confidence: 8.3064):
+it's no accident that the accidental spy is a solid action pic that returns the martial arts master to top form .
+
+FN 16 (Confidence: 8.0922):
+the film is a hoot , and is just as good , if not better than much of what's on saturday morning tv especially the pseudo-educational stuff we all can't stand .
+
+FN 17 (Confidence: 7.7211):
+director nalin pan doesn't do much to weigh any arguments one way or the other . he simply presents his point of view that ayurveda works . no question .
+
+FN 18 (Confidence: 7.4328):
+it's plotless , shapeless -- and yet , it must be admitted , not entirely humorless . indeed , the more outrageous bits achieve a shock-you-into-laughter intensity of almost dadaist proportions .
+
+FN 19 (Confidence: 7.3187):
+opening with some contrived banter , cliches and some loose ends , the screenplay only comes into its own in the second half .
+
+FN 20 (Confidence: 7.2353):
+not too far below the gloss you can still feel director denis villeneuve's beating heart and the fondness he has for his characters .
+
+FN 21 (Confidence: 7.1501):
+you wouldn't call the good girl a date movie ( an anti-date movie is more like it ) , but when it's good , it's good and horrid .
+
+FN 22 (Confidence: 7.0239):
+no worse a film than breaking out , and breaking out was utterly charming .
+
+FN 23 (Confidence: 6.9989):
+the funny thing is , i didn't mind all this contrived nonsense a bit .
+
+FN 24 (Confidence: 6.9339):
+offers an unusual opportunity to observe the inequities in the death penalty , not just the inherent immorality but also the haphazard administration of it and public misperception of how the whole thing works .
+
+FN 25 (Confidence: 6.9037):
+while not all that bad of a movie , it's nowhere near as good as the original .
+
+FN 26 (Confidence: 6.8034):
+not as distinctive or even as humorous as its needs to be to stand out , but it has clearly been made with affection and care .
+
+FN 27 (Confidence: 6.7734):
+its gross-out gags and colorful set pieces . . . are of course stultifyingly contrived and too stylized by half . still , it gets the job done -- a sleepy afternoon rental .
+
+FN 28 (Confidence: 6.7657):
+it seems like i have been waiting my whole life for this movie and now i can't wait for the sequel .
+
+FN 29 (Confidence: 6.3180):
+if you're down for a silly hack-and-slash flick , you can do no wrong with jason x .
+
+FN 30 (Confidence: 6.0099):
+steven soderbergh doesn't remake andrei tarkovsky's solaris so much as distill it .
+
+FN 31 (Confidence: 5.9139):
+not about scares but a mood in which an ominous , pervasive , and unknown threat lurks just below the proceedings and adds an almost constant mindset of suspense .
+
+FN 32 (Confidence: 5.8437):
+as well-acted and well-intentioned as all or nothing is , however , the film comes perilously close to being too bleak , too pessimistic and too unflinching for its own good .
+
+FN 33 (Confidence: 5.8414):
+another in a long line of ultra-violent war movies , this one is not quite what it could have been as a film , but the story and theme make up for it .
+
+FN 34 (Confidence: 5.7597):
+those of you who don't believe in santa claus probably also think that sequels can never capture the magic of the original . well , this movie proves you wrong on both counts .
+
+FN 35 (Confidence: 5.7262):
+jackson tries to keep the plates spinning as best he can , but all the bouncing back and forth can't help but become a bit tedious -- even with the breathtaking landscapes and villainous varmints there to distract you from the ricocheting .
+
+FN 36 (Confidence: 5.7233):
+the last kiss will probably never achieve the popularity of my big fat greek wedding , but its provocative central wedding sequence has far more impact .
+
+FN 37 (Confidence: 5.4043):
+the reason this picture works better than its predecessors is that myers is no longer simply spoofing the mini-mod-madness of '60s spy movies .
+
+FN 38 (Confidence: 5.3793):
+the events of the film are just so weird that i honestly never knew what the hell was coming next .
+
+FN 39 (Confidence: 5.2782):
+the film's plot may be shallow , but you've never seen the deep like you see it in these harrowing surf shots .
+
+FN 40 (Confidence: 5.2458):
+no one goes unindicted here , which is probably for the best . and if you're not nearly moved to tears by a couple of scenes , you've got ice water in your veins .
+
+FN 41 (Confidence: 5.1941):
+the sundance film festival has become so buzz-obsessed that fans and producers descend upon utah each january to ferret out the next great thing . 'tadpole' was one of the films so declared this year , but it's really more of the next pretty good thing .
+
+FN 42 (Confidence: 5.1610):
+even when there are lulls , the emotions seem authentic , and the picture is so lovely toward the end . . . you almost don't notice the 129-minute running time .
+
+FN 43 (Confidence: 5.1302):
+while obviously aimed at kids , the country bears . . . should keep parents amused with its low groan-to-guffaw ratio .
+
+FN 44 (Confidence: 5.0751):
+don't wait to see this terrific film with your kids -- if you don't have kids borrow some .
+
+FN 45 (Confidence: 4.9945):
+the banter between calvin and his fellow barbers feels like a streetwise mclaughlin group . . . and never fails to entertain .
+
+FN 46 (Confidence: 4.9883):
+a fine effort , an interesting topic , some intriguing characters and a sad ending . certainly the big finish wasn't something galinsky and hawley could have planned for . . . but part of being a good documentarian is being there when the rope snaps .
+
+FN 47 (Confidence: 4.9501):
+once the downward spiral comes to pass , auto focus bears out as your typical junkie opera . . .
+
+FN 48 (Confidence: 4.7638):
+has enough wit , energy and geniality to please not only the fanatical adherents on either side , but also people who know nothing about the subject and think they're not interested .
+
+FN 49 (Confidence: 4.7362):
+none of his actors stand out , but that's less of a problem here than it would be in another film : characterization matters less than atmosphere .
+
+FN 50 (Confidence: 4.6895):
+it's got all the familiar bruckheimer elements , and schumacher does probably as good a job as anyone at bringing off the hopkins/rock collision of acting styles and onscreen personas .
+
+FN 51 (Confidence: 4.6442):
+. . . rogers's mouth never stops shut about the war between the sexes and how to win the battle .
+
+FN 52 (Confidence: 4.5618):
+there's not much more to this adaptation of the nick hornby novel than charm -- effortless , pleasurable , featherweight charm .
+
+FN 53 (Confidence: 4.5450):
+collateral damage is trash , but it earns extra points by acting as if it weren't .
+
+FN 54 (Confidence: 4.5405):
+i am not generally a huge fan of cartoons derived from tv shows , but hey arnold ! the movie is clever , offbeat and even gritty enough to overcome my resistance .
+
+FN 55 (Confidence: 4.5358):
+" austin powers in goldmember " has the right stuff for silly summer entertainment and has enough laughs to sustain interest to the end .
+
+FN 56 (Confidence: 4.5315):
+you can fire a torpedo through some of clancy's holes , and the scripters don't deserve any oscars . but the nerve-raked acting , the crackle of lines , the impressive stagings of hardware , make for some robust and scary entertainment .
+
+FN 57 (Confidence: 4.5206):
+it moves quickly , adroitly , and without fuss ; it doesn't give you time to reflect on the inanity -- and the cold war datedness -- of its premise .
+
+FN 58 (Confidence: 4.5053):
+same song , second verse , coulda been better , but it coulda been worse .
+
+FN 59 (Confidence: 4.4573):
+no , it's not as single-minded as john carpenter's original , but it's sure a lot smarter and more unnerving than the sequels .
+
+FN 60 (Confidence: 4.4351):
+never [sinks] into exploitation .
+
+FN 61 (Confidence: 4.3892):
+there's much tongue in cheek in the film and there's no doubt the filmmaker is having fun with it all .
+
+FN 62 (Confidence: 4.3728):
+it's no lie -- big fat liar is a real charmer .
+
+FN 63 (Confidence: 4.3370):
+this cinema verite speculation on the assassination of john f . kennedy may have been inspired by blair witch , but it takes its techniques into such fresh territory that the film never feels derivative .
+
+FN 64 (Confidence: 4.3354):
+wedding feels a bit anachronistic . still , not every low-budget movie must be quirky or bleak , and a happy ending is no cinematic sin .
+
+FN 65 (Confidence: 4.2613):
+there's no reason to miss interview with the assassin
+
+FN 66 (Confidence: 4.2064):
+the film may not hit as hard as some of the better drug-related pictures , but it still manages to get a few punches in .
+
+FN 67 (Confidence: 4.1887):
+although i didn't hate this one , it's not very good either . it can be safely recommended as a video/dvd babysitter .
+
+FN 68 (Confidence: 4.1596):
+parker cannot sustain the buoyant energy level of the film's city beginnings into its country conclusion
+
+FN 69 (Confidence: 3.9662):
+goldmember is funny enough to justify the embarrassment of bringing a barf bag to the moviehouse .
+
+FN 70 (Confidence: 3.9288):
+it may not be " last tango in paris " but . . .
+
+FN 71 (Confidence: 3.7724):
+if you want to see a train wreck that you can't look away from , then look no further , because here it is .
+
+FN 72 (Confidence: 3.7590):
+it's not the least of afghan tragedies that this noble warlord would be consigned to the dustbin of history .
+
+FN 73 (Confidence: 3.7554):
+i know i shouldn't have laughed , but hey , those farts got to my inner nine-year-old .
+
+FN 74 (Confidence: 3.7540):
+this is not a retread of " dead poets' society . "
+
+FN 75 (Confidence: 3.7488):
+despite its hawaiian setting , the science-fiction trimmings and some moments of rowdy slapstick , the basic plot of " lilo " could have been pulled from a tear-stained vintage shirley temple script .
+
+FN 76 (Confidence: 3.7213):
+kaufman creates an eerie sense of not only being there at the time of these events but the very night matthew was killed .
+
+FN 77 (Confidence: 3.7046):
+you can take the grandkids or the grandparents and never worry about anyone being bored . . . audience is a sea of constant smiles and frequent laughter .
+
+FN 78 (Confidence: 3.6572):
+it has a caffeinated , sloppy brilliance , sparkling with ideas you wish had been developed with more care , but animated by an energy that puts the dutiful efforts of more disciplined grade-grubbers to shame .
+
+FN 79 (Confidence: 3.6285):
+i'm not generally a fan of vegetables but this batch is pretty cute .
+
+FN 80 (Confidence: 3.5993):
+maybe thomas wolfe was right : you can't go home again .
+
+FN 81 (Confidence: 3.4849):
+maybe it's just because this past year has seen the release of some of the worst film comedies in decades . . . but honestly , analyze that really isn't all that bad .
+
+FN 82 (Confidence: 3.4820):
+a mess , but it's a sincere mess .
+
+FN 83 (Confidence: 3.4310):
+by the time it ends in a rush of sequins , flashbulbs , blaring brass and back-stabbing babes , it has said plenty about how show business has infiltrated every corner of society -- and not always for the better .
+
+FN 84 (Confidence: 3.4030):
+whether or not you're enlightened by any of derrida's lectures on " the other " and " the self , " derrida is an undeniably fascinating and playful fellow .
+
+FN 85 (Confidence: 3.3846):
+light the candles , bring out the cake and don't fret about the calories because there's precious little substance in birthday girl -- it's simply , and surprisingly , a nice , light treat .
+
+FN 86 (Confidence: 3.3811):
+a competent , unpretentious entertainment destined to fill the after-school slot at shopping mall theaters across the country .
+
+FN 87 (Confidence: 3.3553):
+about the best thing you could say about narc is that it's a rock-solid little genre picture . whether you like it or not is basically a matter of taste .
+
+FN 88 (Confidence: 3.3545):
+even during the climactic hourlong cricket match , boredom never takes hold .
+
+FN 89 (Confidence: 3.3419):
+the santa clause 2 proves itself a more streamlined and thought out encounter than the original could ever have hoped to be .
+
+FN 90 (Confidence: 3.3055):
+it may scream low budget , but this charmer has a spirit that cannot be denied .
+
+FN 91 (Confidence: 3.2825):
+whatever complaints i might have , i'd take [its] earnest errors and hard-won rewards over the bombastic self-glorification of other feel-good fiascos like antwone fisher or the emperor's club any time .
+
+FN 92 (Confidence: 3.2785):
+while it's nothing we haven't seen before from murphy , i spy is still fun and enjoyable and so aggressively silly that it's more than a worthwhile effort .
+
+FN 93 (Confidence: 3.2629):
+a " black austin powers ? " i prefer to think of it as " pootie tang with a budget . " sa da tay !
+
+FN 94 (Confidence: 3.2158):
+byler is too savvy a filmmaker to let this morph into a typical romantic triangle . instead , he focuses on the anguish that can develop when one mulls leaving the familiar to traverse uncharted ground .
+
+FN 95 (Confidence: 3.1996):
+[hawn's character]is so bluntly written , without a trace of sentimentality , and so blisteringly defined , that every other character seems overlooked and underwritten .
+
+FN 96 (Confidence: 3.1602):
+proves a servicable world war ii drama that can't totally hide its contrivances , but it at least calls attention to a problem hollywood too long has ignored .
+
+FN 97 (Confidence: 3.1598):
+austin powers in goldmember is a cinematic car wreck , a catastrophic collision of tastelessness and gall that nevertheless will leave fans clamoring for another ride .
+
+FN 98 (Confidence: 3.1026):
+there are a couple of things that elevate " glory " above most of its ilk , most notably the mere presence of duvall .
+
+FN 99 (Confidence: 3.0274):
+the powers team has fashioned a comedy with more laughs than many , no question . but this time there's some mold on the gold .
+
+FN 100 (Confidence: 3.0225):
+neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula .
+
+FN 101 (Confidence: 2.9860):
+it would be interesting to hear from the other side , but in talk to her , the women are down for the count .
+
+FN 102 (Confidence: 2.9632):
+much has been written about those years when the psychedelic '60s grooved over into the gay '70s , but words don't really do the era justice . you have to see it .
+
+FN 103 (Confidence: 2.9567):
+it never fails to engage us .
+
+FN 104 (Confidence: 2.9014):
+its cast full of caffeinated comedy performances more than make up for its logical loopholes , which fly by so fast there's no time to think about them anyway .
+
+FN 105 (Confidence: 2.8980):
+like its title character , this nicholas nickleby finds itself in reduced circumstances -- and , also like its hero , it remains brightly optimistic , coming through in the end .
+
+FN 106 (Confidence: 2.8839):
+not as good as the full monty , but a really strong second effort .
+
+FN 107 (Confidence: 2.7920):
+awkward but sincere and , ultimately , it wins you over .
+
+FN 108 (Confidence: 2.7796):
+i'm not a fan of the phrase 'life affirming' because it usually means 'schmaltzy , ' but real women have curves truly is life affirming .
+
+FN 109 (Confidence: 2.7616):
+scooby doo is surely everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation .
+
+FN 110 (Confidence: 2.7304):
+as action-adventure , this space-based homage to robert louis stevenson's treasure island fires on all plasma conduits .
+
+FN 111 (Confidence: 2.7304):
+'they' begins and ends with scenes so terrifying i'm still stunned . and i've decided to leave a light on every night from now on .
+
+FN 112 (Confidence: 2.7250):
+it's like going to a house party and watching the host defend himself against a frothing ex-girlfriend . you don't want to call the cops . you want to call domino's .
+
+FN 113 (Confidence: 2.6701):
+. . . a somber film , almost completely unrelieved by any comedy beyond the wistful everyday ironies of the working poor .
+
+FN 114 (Confidence: 2.6515):
+it may not be as cutting , as witty or as true as back in the glory days of weekend and two or three things i know about her , but who else engaged in filmmaking today is so cognizant of the cultural and moral issues involved in the process ?
+
+FN 115 (Confidence: 2.6512):
+there has to be a few advantages to never growing old . like being able to hit on a 15-year old when you're over 100 .
+
+FN 116 (Confidence: 2.5998):
+the movie isn't just hilarious : it's witty and inventive , too , and in hindsight , it isn't even all that dumb .
+
+FN 117 (Confidence: 2.5978):
+based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters
+
+FN 118 (Confidence: 2.5840):
+if there's nothing fresh about wannabes , which was written by mr . demeo , who produced and directed the film with charles a . addessi , much of the time the movie feels authentic .
+
+FN 119 (Confidence: 2.5546):
+you may be captivated , as i was , by its moods , and by its subtly transformed star , and still wonder why paul thomas anderson ever had the inclination to make the most sincere and artful movie in which adam sandler will probably ever appear .
+
+FN 120 (Confidence: 2.5523):
+not only is undercover brother as funny , if not more so , than both austin powers films , but it's also one of the smarter , savvier spoofs to come along in some time .
+
+FN 121 (Confidence: 2.5460):
+this is pure , exciting moviemaking . you won't exactly know what's happening but you'll be blissfully exhausted .
+
+FN 122 (Confidence: 2.4957):
+if you're willing to have fun with it , you won't feel cheated by the high infidelity of unfaithful .
+
+FN 123 (Confidence: 2.4943):
+like an episode of mtv's undressed , with 20 times the creativity but without any more substance . . . indulgently entertaining but could have and should have been deeper .
+
+FN 124 (Confidence: 2.4933):
+the dragons are the real stars of reign of fire and you won't be disappointed .
+
+FN 125 (Confidence: 2.4924):
+trapped won't score points for political correctness , but it may cause parents a few sleepless hours -- a sign of its effectiveness .
+
+FN 126 (Confidence: 2.4634):
+whenever it threatens to get bogged down in earnest dramaturgy , a stirring visual sequence like a surge through swirling rapids or a leap from pinnacle to pinnacle rouses us . if horses could fly , this is surely what they'd look like .
+
+FN 127 (Confidence: 2.4472):
+far more imaginative and ambitious than the trivial , cash-in features nickelodeon has made from its other animated tv series .
+
+FN 128 (Confidence: 2.3949):
+the people in dogtown and z-boys are so funny , aggressive and alive , you have to watch them because you can't wait to see what they do next .
+
+FN 129 (Confidence: 2.3771):
+not quite as miraculous as its dreamworks makers would have you believe , but it more than adequately fills the eyes and stirs the emotions .
+
+FN 130 (Confidence: 2.3736):
+idiotic and ugly .
+
+FN 131 (Confidence: 2.3218):
+a jewish ww ii doc that isn't trying simply to out-shock , out-outrage or out-depress its potential audience ! who knew . . .
+
+FN 132 (Confidence: 2.2691):
+when your leading ladies are a couple of screen-eating dominatrixes like goldie hawn and susan sarandon at their raunchy best , even hokum goes down easily .
+
+FN 133 (Confidence: 2.2456):
+deflated ending aside , there's much to recommend the film .
+
+FN 134 (Confidence: 2.2393):
+it's virtually impossible to like any of these despicable characters .
+
+FN 135 (Confidence: 2.2086):
+it's still adam sandler , and it's not little nicky . and for many of us , that's good enough .
+
+FN 136 (Confidence: 2.1951):
+you might not buy the ideas . but you'll definitely want the t-shirt .
+
+FN 137 (Confidence: 2.1927):
+the additional storyline is interesting and entertaining , but it doesn't have the same magical quality as the beginning of the story . i like the new footage and still love the old stuff .
+
+FN 138 (Confidence: 2.1673):
+like a poor man's you can count on me
+
+FN 139 (Confidence: 2.1555):
+blade ii is as estrogen-free as movies get , so you might want to leave your date behind for this one , or she's gonna make you feel like you owe her big-time .
+
+FN 140 (Confidence: 2.1515):
+it all plays out . . . like a high-end john hughes comedy , a kind of elder bueller's time out .
+
+FN 141 (Confidence: 2.1505):
+sleek and arty .
+
+FN 142 (Confidence: 2.1260):
+a chick flick for guys .
+
+FN 143 (Confidence: 2.1119):
+all leather pants & augmented boobs , hawn is hilarious as she tries to resuscitate the fun-loving libertine lost somewhere inside the conservative , handbag-clutching sarandon .
+
+FN 144 (Confidence: 2.0920):
+more a load of enjoyable , conan-esque claptrap than the punishing , special-effects soul assaults the mummy pictures represent .
+
+FN 145 (Confidence: 2.0819):
+looking aristocratic , luminous yet careworn in jane hamilton's exemplary costumes , rampling gives a performance that could not be improved upon .
+
+FN 146 (Confidence: 2.0751):
+[allen] manages to breathe life into this somewhat tired premise .
+
+FN 147 (Confidence: 2.0413):
+the movie starts with a legend and ends with a story that is so far-fetched it would be impossible to believe if it weren't true . this is the stuff that disney movies are made of .
+
+FN 148 (Confidence: 2.0264):
+predictable storyline and by-the-book scripting is all but washed away by sumptuous ocean visuals and the cinematic stylings of director john stockwell .
+

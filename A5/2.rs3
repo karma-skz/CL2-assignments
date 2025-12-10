@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="Background" type="rst" />
+			<rel name="Elaboration" type="rst" />
+			<rel name="Joint" type="multinuc" />
+			<rel name="Temporal" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="14" relname="Background">As your floppy drive writes or reads,</segment>
+		<segment id="2" parent="14" relname="span">a Syncom diskette is working four ways</segment>
+		<segment id="3" parent="2" relname="Elaboration">to keep loose particles and dust from causing soft errors, dropouts.</segment>
+		<segment id="4" parent="16" relname="span">Cleaning agents on the burnished surface of the Ectype coating actually remove build-up from the head,</segment>
+		<segment id="5" parent="4" relname="Temporal">while lubricating it at the same time.</segment>
+		<segment id="6" parent="17" relname="span">A carbon additive drains away static electricity</segment>
+		<segment id="7" parent="6" relname="Temporal">before it can attract dust or lint.</segment>
+		<segment id="8" parent="21" relname="Joint">Strong binders hold the signal-carrying oxides tightly within the coating.</segment>
+		<segment id="9" parent="18" relname="span">And the non-woven jacket liner,</segment>
+		<segment id="10" parent="9" relname="Background">more than just wiping the surface,</segment>
+		<segment id="11" parent="19" relname="span">provides thousands of tiny pockets</segment>
+		<segment id="12" parent="11" relname="Elaboration">to keep what it collects.</segment>
+		<group id="15" type="span" parent="24" relname="span"/>
+		<group id="14" type="span" parent="15" relname="span"/>
+		<group id="23" type="multinuc" parent="15" relname="Elaboration"/>
+		<group id="16" type="span" parent="23" relname="Joint"/>
+		<group id="22" type="multinuc" parent="23" relname="Joint"/>
+		<group id="17" type="span" parent="22" relname="Joint"/>
+		<group id="21" type="multinuc" parent="22" relname="Joint"/>
+		<group id="20" type="multinuc" parent="21" relname="Joint"/>
+		<group id="18" type="span" parent="20" relname="same-unit"/>
+		<group id="19" type="span" parent="20" relname="same-unit"/>
+		<group id="24" type="span"/>
+	</body>
+</rst>

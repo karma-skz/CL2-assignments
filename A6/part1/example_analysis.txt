@@ -1,0 +1,153 @@
+================================================================================
+MANUAL EVALUATION OF 10 AMBIGUOUS WORDS
+================================================================================
+
+Note: All predictions below are from the Simplified Lesk Algorithm (without 
+lemmatization or stopword removal). Predictions are based on maximum gloss 
+overlap between context words and WordNet synset definitions.
+
+================================================================================
+
+1. KEEP (verb)
+   Context: "Action by the Committee In pursuance of its mandate, the Committee will continue to keep under review the situation relating to the question of sovereignty."
+   Gold: continue.v.01 "continue a certain state, condition, or activity"
+   Predicted: continue.v.01
+   Result: CORRECT
+   
+   Context: "Another major cause of concern is the widespread practice of undue prolonged pre-trial detention in police stations as well as in prisons, mainly of persons who cannot afford legal representation. Some of these persons are kept in custody in contravention of national laws and international standards."
+   Gold: keep.v.21 "hold and prevent from leaving"
+   Predicted: keep.v.01
+   Result: INCORRECT
+   Why: Failed to recognize "kept in custody" as an idiom indicating detention. the more frequent sense keep.v.01 had higher overall gloss overlap.
+
+2. HOLD (verb)
+   Context: "The relevant divergent views can be summed up in various ways. I would describe the situation as follows: one school of thought holds that negotiations on nuclear disarmament are exclusive to the Conference on Disarmament."
+   Gold: deem.v.01 "keep in mind or convey as a conviction or view"
+   Predicted: hold.v.01
+   Result: INCORRECT
+   Why: Cannot parse the syntactic construction "X holds that Y" which signals the belief/opinion sense. treated as literal holding.
+
+3. LINE (noun)
+   Context: "She would appreciate receiving information on how the Government was enforcing national and regional implementation of those decrees. Ms. Chutikul wished to know whether the definition of trafficking in the 2007 Law on Anti-Trafficking was in line with the definition in the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children."
+   Gold: line.n.16 "acting in conformity"
+   Predicted: line.n.01
+   Result: INCORRECT
+   Why: Missed the idiomatic expression "in line with" (meaning conformity); treated "line" as a literal physical object.
+
+4. SEE (verb)
+   Context: "The past year saw significant progress in this regard."
+   Gold: witness.v.01 "perceive or be contemporaneous with"
+   Predicted: see.v.01
+   Result: INCORRECT
+   Why: Failed to recognize metaphorical usage where "year" (abstract temporal entity) experiences events; defaulted to literal vision sense.
+
+5. FOLLOW (verb)
+   Context: "The Sub-Commission further takes note of the establishment of a Government of National Unity and the subsequent formation of an Interim National Assembly. While recognizing the progress made in the peace process, the Sub-Commission urges the Government to ensure respect for human rights. States are increasingly following the guidelines set forth in international human rights instruments."
+   Gold: follow.v.08 "act in accordance with rules or wishes"
+   Predicted: follow.v.01
+   Result: INCORRECT
+   Why: Cannot infer that "guidelines" are rules to be adhered to; interpreted as physical following rather than compliance.
+
+6. BUILD (verb)
+   Context: "The Committee calls on States parties to build public health-care centres on as geographically equitable a basis as possible."
+   Gold: construct.v.01 "make by combining materials and parts"
+   Predicted: construct.v.01
+   Result: CORRECT
+
+7. FIND (verb)
+   Context: "Such conversation quickly reveals an ethically significant ambivalence in the self-images held by most realtors. Within the membership of this group, we found a rather high level of resentment toward negative stereotypes of realtors."
+   Gold: detect.v.01 "discover or determine the existence"
+   Predicted: find.v.01
+   Result: INCORRECT
+   Why: Cannot distinguish between physical discovery (find.v.01) and abstract detection through analysis (detect.v.01); both senses had similar overlap.
+
+8. SERVE (verb)
+   Context: "On 7 March 2003, the Panel of the Appeals Chamber issued an order setting a briefing schedule. The Prosecution served its brief on 28 March 2003."
+   Gold: serve.v.11 "deliver a warrant or summons"
+   Predicted: serve.v.01
+   Result: INCORRECT
+   Why: Technical legal sense (formally delivering documents) has a sparse gloss that doesn't match legal context words; defaulted to common service sense.
+
+9. LIFE (noun)
+   Context: "When she had wiped some of the lipstick from her mouth, she stared solemnly at her image in the mirror. Are your people still alive he asked in a soft voice. My mother worked her way up through the ranks of the Women Voters into a rather important committee chairmanship. Life had been considerably easier for her."
+   Gold: life.n.03 "the course of existence of an individual"
+   Predicted: life.n.01
+   Result: INCORRECT
+   Why: Fine-grained sense distinction between "state of living" and "biographical course of existence" requires pragmatic understanding that the algorithm lacks.
+
+10. REGULAR (adjective)
+    Context: "Around 40 such universities now form a loose network across the globe. Although frequently associated with a local, regular university, they remain institutionally independent."
+    Gold: regular.s.02 "conforming to a standard or pattern"
+    Predicted: regular.s.02
+    Result: CORRECT
+
+================================================================================
+LINGUISTIC FEATURES MOST HELPFUL FOR DISAMBIGUATION:
+================================================================================
+
+1. Direct Lexical Overlap
+   - When context words appear in gloss (e.g., "continue" in both context and 
+     synset helped disambiguate "keep")
+   - Most effective for literal, concrete meanings
+
+2. Concrete Objects/Physical Context
+   - Physical objects as direct arguments (e.g., "build centres")
+   - Literal usage over metaphorical (e.g., "build" succeeded, "see" failed)
+
+3. Domain-Specific Vocabulary
+   - Clustering of specialized terms helps (e.g., legal context for "serve")
+   - Limited by gloss coverage of domain terms
+
+4. WordNet Example Sentences
+   - Examples provide contextual usage patterns
+   - Often more helpful than abstract definitions
+
+5. Collocation Patterns
+   - Fixed expressions like "keep under review" aid disambiguation
+   - Algorithm fails when idioms are not recognized as units
+
+================================================================================
+KEY LIMITATIONS OF LESK ALGORITHM:
+================================================================================
+
+1. No Multi-Word Expression Recognition
+   - Fails on idioms ("in line with", "kept in custody")
+   - Treats each word independently, losing non-compositional meanings
+
+2. Bag-of-Words Approach
+   - Ignores syntax and grammatical structure
+   - Cannot parse patterns like "X holds that Y" indicating belief
+   - No word order or grammatical role awareness
+
+3. No Semantic Understanding
+   - Cannot reason about selectional restrictions (e.g., "year" cannot 
+     literally "see")
+   - No distinction between concrete and abstract uses
+   - Fails on metaphorical language
+
+4. Domain Insensitivity
+   - Cannot weight domain-specific vocabulary appropriately
+   - Technical/specialized senses disadvantaged by shorter glosses
+   - No adaptation to text domain
+
+5. Equal Context Weighting
+   - All words weighted equally regardless of importance
+   - Cannot identify key disambiguating terms
+   - No attention mechanism for relevant context
+
+6. Bias Toward Frequent Senses
+   - Most frequent senses have longer glosses → more overlap
+   - Rare but correct senses often lose
+   - No frequency balancing
+
+7. Fine-Grained Sense Confusion
+   - Cannot distinguish subtle semantic differences
+   - Requires world knowledge and pragmatic reasoning
+   - Philosophical distinctions impossible (e.g., life.n.01 vs life.n.03)
+
+8. Collocation Blindness
+   - Misses systematic phrase patterns
+   - Cannot recognize "serve a brief" as legal term
+   - No phrase-level semantic knowledge
+
+================================================================================

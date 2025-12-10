@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="Contrast" type="multinuc" />
+			<rel name="Elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="16" relname="span">This paper is part of an effort</segment>
+		<segment id="2" parent="1" relname="Elaboration">to relate various accounts.</segment>
+		<segment id="3" parent="17" relname="span">It is the first in a pair of papers</segment>
+		<segment id="4" parent="3" relname="Elaboration">that compare two particular accounts:</segment>
+		<segment id="5" parent="17" relname="Elaboration">Rhetorical Structure Theory and Systemic Linguistics.</segment>
+		<segment id="6" parent="19" relname="span">Rhetorical Structure Theory,</segment>
+		<segment id="7" parent="6" relname="Elaboration">initially formulated in 1983,</segment>
+		<segment id="8" parent="20" relname="span">describes texts in terms of functionally-defined relations</segment>
+		<segment id="9" parent="8" relname="Elaboration">that hold between their parts.</segment>
+		<segment id="10" parent="22" relname="span">Systemic Linguistics is a much more comprehensive view of language</segment>
+		<segment id="11" parent="10" relname="Elaboration">initiated in the early 1960s.</segment>
+		<segment id="12" parent="24" relname="Contrast">Where the two approaches are comparable,</segment>
+		<segment id="13" parent="24" relname="span">Systemic Linguistics describes texts in terms of categories of processes</segment>
+		<segment id="14" parent="13" relname="Elaboration">which the texts perform.</segment>
+		<group id="16" type="span" parent="28" relname="span"/>
+		<group id="27" type="span" parent="16" relname="Elaboration"/>
+		<group id="18" type="span" parent="27" relname="span"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="26" type="span" parent="18" relname="Elaboration"/>
+		<group id="23" type="multinuc" parent="26" relname="span"/>
+		<group id="21" type="multinuc" parent="23" relname="Contrast"/>
+		<group id="19" type="span" parent="21" relname="same-unit"/>
+		<group id="20" type="span" parent="21" relname="same-unit"/>
+		<group id="22" type="span" parent="23" relname="Contrast"/>
+		<group id="25" type="span" parent="23" relname="Elaboration"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="28" type="span"/>
+	</body>
+</rst>

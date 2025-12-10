@@ -1,0 +1,50 @@
+PARAGRAPH 1
+Original: I don't believe that endorsing the Nuclear Freeze Initiative is the right step for California Common Cause. Tempting as it may be, we shouldn't embrace every popular issue that comes along. When we do so, we use precious, limited resources where other players with superior resources are already doing an adequate job. Rather, I think we will be stronger and more effective if we stick to those issues of governmental structure and process, broadly defined, that have formed the core of our agenda for years.
+Summary: that endorsing the Nuclear Freeze Initiative is the right step for California Common Cause. Tempting as it may be, if we stick to those issues of governmental structure and process, broadly defined,
+LLM: The author argues that California Common Cause should focus on its core mission of governmental structure and process rather than spreading resources thin by supporting every popular cause like the Nuclear Freeze Initiative.
+
+PARAGRAPH 2
+Original: As your floppy drive writes or reads, a Syncom diskette is working four ways to keep loose particles and dust from causing soft errors, dropouts. Cleaning agents on the burnished surface of the Ectype coating actually remove build-up from the head, while lubricating it at the same time. A carbon additive drains away static electricity before it can attract dust or lint. Strong binders hold the signal-carrying oxides tightly within the coating. And the non-woven jacket liner, more than just wiping the surface, provides thousands of tiny pockets to keep what it collects.
+Summary: a Syncom diskette is working four ways. Cleaning agents on the burnished surface of the Ectype coating actually remove build-up from the head, Strong binders hold the signal-carrying oxides tightly within the coating.
+LLM: Syncom diskettes use four protective mechanisms—cleaning agents, lubricants, carbon additives, and strong binders—along with a special jacket liner to prevent dust and particles from causing data errors.
+
+PARAGRAPH 3
+Original: To create your own "Victorian" bouquet of flowers, choose varying shapes, sizes and forms, besides a variety of complementary colors. Plants that grow tall should be surrounded by smaller ones and filled with others that tumble over the side of a hanging basket. Leaf textures and colors will also be important. There is the silver-white foliage of dusty miller, the feathery threads of lotus vine floating down from above, the deep greens, or chartreuse, even the widely varied foliage colors of the coleus.
+Summary: To create your own "Victorian" bouquet of flowers, Leaf textures and colors will also be important. the deep greens, or chartreuse, even the widely varied foliage colors of the coleus.
+LLM: Creating a Victorian-style flower arrangement requires combining plants of varying heights, shapes, and colors, with attention to diverse leaf textures ranging from silver dusty miller to colorful coleus.
+
+PARAGRAPH 4
+Original: The people waiting in line carried a message, a refutation, of claims that the jobless could be employed if only they showed enough moxie. Every rule has exceptions, but the tragic and too-common tableaux of hundreds or even thousands of people snake-lining up for any task with a paycheck illustrates a lack of jobs, not laziness.
+Summary: carried a message, a refutation, of claims. but the tragic and too-common tableaux of hundreds or even thousands of people. illustrates a lack of jobs, not laziness.
+LLM: Long lines of job seekers demonstrate a shortage of available employment rather than a lack of effort, contradicting claims that unemployment stems from insufficient initiative.
+
+PARAGRAPH 5
+Original: While looking over a Scottsdale, Ariz., model house one day, my wife was amused by the real-estate agents, who engaged her in the "you talk kinda funny" conversation. We say "to-mah-to" and Arizonans say "to-may-to." We call the hood of a car a "bonnet" and the trunk a boot. Then, as my wife entered the dining room, one agent pointed to a massive chandelier and asked, "What would you call that in England?" "Ostentatious," my wife replied.
+Summary: my wife was amused by the real-estate agents, who engaged her in the "you talk kinda funny" conversation. Then,
+LLM: When real estate agents asked the author's English wife what she would call an elaborate chandelier, she wittily replied "ostentatious" after discussing other British-American vocabulary differences.
+
+PARAGRAPH 6
+Original: When a group of Americans, many in the teaching profession, visited her in Calcutta, they asked her for some advice to take home to their families. "Smile at your wives," she told them. "Smile at your husbands." Thinking that perhaps the counsel was simplistic, coming from an unmarried person, one of them asked, "Are you married?" "Yes," she replied, to their surprise, "and I find it hard sometimes to smile at Jesus. He can be very demanding."
+Summary: When a group of Americans, many in the teaching profession, visited her in Calcutta, "Smile at your husbands.". and I find it hard sometimes to smile at Jesus.
+LLM: Mother Teresa advised visiting American teachers to smile at their spouses, and when asked if marriage made her advice relevant, revealed she is "married" to Jesus, who she finds can be very demanding.
+
+PARAGRAPH 7
+Original: ZPG's 1985 Urban Stress Test, created after months of persistent and exhaustive research, is the nation's first survey of how population-linked pressures affect U.S. cities. It ranks 184 urban areas on 11 different criteria ranging from crowding and birth rates to air quality and toxic wastes. The Urban Stress Test translates complex, technical data into an easy-to-use action tool for concerned citizens, elected officials and opinion leaders.
+Summary: is the nation's first survey. It ranks 184 urban areas on 11 different criteria. The Urban Stress Test translates complex, technical data into an easy-to-use action tool for concerned citizens, elected officials and opinion leaders.
+LLM: ZPG's Urban Stress Test ranks 184 U.S. cities using eleven population-related criteria to help citizens and officials understand urban pressures in an accessible format.
+
+PARAGRAPH 8
+Original: Our knowledge of ancient shipbuilding techniques, for example, is dependent on the work of archaeologists who have painstakingly excavated remains of ships themselves. The contents of shipwrecks are an equally valuable archaeological resource. Since the objects in a wreck represent a single moment in time, they provide better chronological information than even the most carefully excavated terrestrial site. Moreover, perishable items such as foodstuffs, which do not survive well on land, are often preserved underwater.
+Summary: Our knowledge of ancient shipbuilding techniques, for example, is dependent on the work of archaeologists. The contents of shipwrecks are an equally valuable archaeological resource. they provide better chronological information than even the most carefully excavated terrestrial site.
+LLM: Archaeological study of ancient shipwrecks provides uniquely valuable chronological data since all objects represent a single moment in time, and underwater conditions preserve perishable items that would decay on land.
+
+PARAGRAPH 9
+Original: In an article for Campus Life magazine, Susan Smart describes her third and nearly last solo flight. She had been practicing a maneuver at 5,000 feet when she lost control and her Cessna 150 began spinning wildly toward earth. After several seconds of panic, she recalled her instructor's words: "If you ever go into a spin in a Cessna 150, just let go of the controls. It's built to fly on its own."
+Summary: In an article for Campus Life magazine, Susan Smart describes her third and nearly last solo flight. She had been practicing a maneuver at 5,000 feet. and her Cessna 150 began spinning wildly toward earth.
+LLM: A student pilot lost control of her spinning Cessna 150 but survived by remembering her instructor's counterintuitive advice to simply release the controls and let the plane stabilize itself.
+
+PARAGRAPH 10
+Original: This paper is part of an effort to relate various accounts. It is the first in a pair of papers that compare two particular accounts: Rhetorical Structure Theory and Systemic Linguistics. Rhetorical Structure Theory, initially formulated in 1983, describes texts in terms of functionally-defined relations that hold between their parts. Systemic Linguistics is a much more comprehensive view of language initiated in the early 1960s. Where the two approaches are comparable, Systemic Linguistics describes texts in terms of categories of processes which the texts perform.
+Summary: This paper is part of an effort. It is the first in a pair of papers. Systemic Linguistics is a much more comprehensive view of language.
+LLM: This paper compares Rhetorical Structure Theory, which analyzes texts through functional relations between parts, with the broader Systemic Linguistics approach, which categorizes texts by the processes they perform.
+

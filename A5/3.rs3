@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="Elaboration" type="rst" />
+			<rel name="Joint" type="multinuc" />
+			<rel name="Manner-Means" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="13" relname="span">To create your own "Victorian" bouquet of flowers,</segment>
+		<segment id="2" parent="1" relname="Manner-Means">choose varying shapes, sizes and forms, besides a variety of complementary colors.</segment>
+		<segment id="3" parent="14" relname="span">Plants</segment>
+		<segment id="4" parent="3" relname="Elaboration">that grow tall</segment>
+		<segment id="5" parent="16" relname="Joint">should be surrounded by smaller ones</segment>
+		<segment id="6" parent="15" relname="span">and filled with others</segment>
+		<segment id="7" parent="6" relname="Elaboration">that tumble over the side of a hanging basket.</segment>
+		<segment id="8" parent="20" relname="span">Leaf textures and colors will also be important.</segment>
+		<segment id="9" parent="18" relname="span">There is the silver-white foliage of dusty miller, the feathery threads of lotus vine</segment>
+		<segment id="10" parent="9" relname="Elaboration">floating down from above,</segment>
+		<segment id="11" parent="19" relname="same-unit">the deep greens, or chartreuse, even the widely varied foliage colors of the coleus.</segment>
+		<group id="13" type="span" parent="22" relname="span"/>
+		<group id="21" type="multinuc" parent="13" relname="Elaboration"/>
+		<group id="17" type="multinuc" parent="21" relname="Joint"/>
+		<group id="14" type="span" parent="17" relname="same-unit"/>
+		<group id="16" type="multinuc" parent="17" relname="same-unit"/>
+		<group id="15" type="span" parent="16" relname="Joint"/>
+		<group id="20" type="span" parent="21" relname="Joint"/>
+		<group id="19" type="multinuc" parent="8" relname="Elaboration"/>
+		<group id="18" type="span" parent="19" relname="same-unit"/>
+		<group id="22" type="span"/>
+	</body>
+</rst>

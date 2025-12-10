@@ -1,0 +1,1134 @@
+{
+  "1": {
+    "file": "1.rs3",
+    "relation_types": {
+      "Attribution": "rst",
+      "Background": "rst",
+      "Condition": "rst",
+      "Contrast": "multinuc",
+      "Elaboration": "rst",
+      "Explanation": "rst",
+      "antithesis": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "I don't believe",
+        "parent": "2",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "2",
+        "text": "that endorsing the Nuclear Freeze Initiative is the right step for California Common Cause.",
+        "parent": "14",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "3",
+        "text": "Tempting as it may be,",
+        "parent": "15",
+        "relation": "Contrast",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "we shouldn't embrace every popular issue",
+        "parent": "15",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "5",
+        "text": "that comes along.",
+        "parent": "4",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "6",
+        "text": "When we do so,",
+        "parent": "17",
+        "relation": "Background",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "7",
+        "text": "we use precious, limited resources",
+        "parent": "17",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "8",
+        "text": "where other players with superior resources are already doing an adequate job.",
+        "parent": "7",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "9",
+        "text": "Rather, I think",
+        "parent": "21",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "10",
+        "text": "we will be stronger and more effective",
+        "parent": "21",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "11",
+        "text": "if we stick to those issues of governmental structure and process, broadly defined,",
+        "parent": "20",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "12",
+        "text": "that have formed the core of our agenda for years.",
+        "parent": "11",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      }
+    ]
+  },
+  "2": {
+    "file": "2.rs3",
+    "relation_types": {
+      "Background": "rst",
+      "Elaboration": "rst",
+      "Joint": "multinuc",
+      "Temporal": "rst",
+      "antithesis": "multinuc",
+      "same-unit": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "As your floppy drive writes or reads,",
+        "parent": "14",
+        "relation": "Background",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "2",
+        "text": "a Syncom diskette is working four ways",
+        "parent": "14",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "3",
+        "text": "to keep loose particles and dust from causing soft errors, dropouts.",
+        "parent": "2",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "4",
+        "text": "Cleaning agents on the burnished surface of the Ectype coating actually remove build-up from the head,",
+        "parent": "16",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "5",
+        "text": "while lubricating it at the same time.",
+        "parent": "4",
+        "relation": "Temporal",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "6",
+        "text": "A carbon additive drains away static electricity",
+        "parent": "17",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "7",
+        "text": "before it can attract dust or lint.",
+        "parent": "6",
+        "relation": "Temporal",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "8",
+        "text": "Strong binders hold the signal-carrying oxides tightly within the coating.",
+        "parent": "21",
+        "relation": "Joint",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "9",
+        "text": "And the non-woven jacket liner,",
+        "parent": "18",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "10",
+        "text": "more than just wiping the surface,",
+        "parent": "9",
+        "relation": "Background",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "11",
+        "text": "provides thousands of tiny pockets",
+        "parent": "19",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "12",
+        "text": "to keep what it collects.",
+        "parent": "11",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      }
+    ]
+  },
+  "3": {
+    "file": "3.rs3",
+    "relation_types": {
+      "Elaboration": "rst",
+      "Joint": "multinuc",
+      "Manner-Means": "rst",
+      "antithesis": "multinuc",
+      "same-unit": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "To create your own \"Victorian\" bouquet of flowers,",
+        "parent": "13",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "2",
+        "text": "choose varying shapes, sizes and forms, besides a variety of complementary colors.",
+        "parent": "1",
+        "relation": "Manner-Means",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "3",
+        "text": "Plants",
+        "parent": "14",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "that grow tall",
+        "parent": "3",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "5",
+        "text": "should be surrounded by smaller ones",
+        "parent": "16",
+        "relation": "Joint",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "6",
+        "text": "and filled with others",
+        "parent": "15",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "7",
+        "text": "that tumble over the side of a hanging basket.",
+        "parent": "6",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "8",
+        "text": "Leaf textures and colors will also be important.",
+        "parent": "20",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "9",
+        "text": "There is the silver-white foliage of dusty miller, the feathery threads of lotus vine",
+        "parent": "18",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "10",
+        "text": "floating down from above,",
+        "parent": "9",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "11",
+        "text": "the deep greens, or chartreuse, even the widely varied foliage colors of the coleus.",
+        "parent": "19",
+        "relation": "same-unit",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      }
+    ]
+  },
+  "4": {
+    "file": "4.rs3",
+    "relation_types": {
+      "Condition": "rst",
+      "Contrast": "rst",
+      "Elaboration": "rst",
+      "antithesis": "multinuc",
+      "same-unit": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "The people",
+        "parent": "11",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "2",
+        "text": "waiting in line",
+        "parent": "1",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "3",
+        "text": "carried a message, a refutation, of claims",
+        "parent": "13",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "that the jobless could be employed",
+        "parent": "12",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "5",
+        "text": "if only they showed enough moxie.",
+        "parent": "4",
+        "relation": "Condition",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "6",
+        "text": "Every rule has exceptions,",
+        "parent": "16",
+        "relation": "Contrast",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "7",
+        "text": "but the tragic and too-common tableaux of hundreds or even thousands of people",
+        "parent": "15",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "8",
+        "text": "snake-lining up for any task with a paycheck",
+        "parent": "7",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "9",
+        "text": "illustrates a lack of jobs, not laziness.",
+        "parent": "16",
+        "relation": "same-unit",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      }
+    ]
+  },
+  "5": {
+    "file": "5.rs3",
+    "relation_types": {
+      "Attribution": "rst",
+      "Background": "rst",
+      "Contrast": "multinuc",
+      "Elaboration": "rst",
+      "Temporal": "multinuc",
+      "antithesis": "multinuc",
+      "same-unit": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "While looking over a Scottsdale, Ariz., model house one day,",
+        "parent": "19",
+        "relation": "Background",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "2",
+        "text": "my wife was amused by the real-estate agents,",
+        "parent": "19",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "3",
+        "text": "who engaged her in the \"you talk kinda funny\" conversation.",
+        "parent": "18",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "We say",
+        "parent": "5",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "5",
+        "text": "\"to-mah-to\"",
+        "parent": "16",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "6",
+        "text": "and Arizonans say \"to-may-to.\"",
+        "parent": "17",
+        "relation": "Contrast",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "7",
+        "text": "We call the hood of a car a \"bonnet\" and the trunk a boot.",
+        "parent": "20",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "8",
+        "text": "Then,",
+        "parent": "27",
+        "relation": "same-unit",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "9",
+        "text": "as my wife entered the dining room,",
+        "parent": "25",
+        "relation": "Background",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "10",
+        "text": "one agent pointed to a massive chandelier",
+        "parent": "25",
+        "relation": "Temporal",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "11",
+        "text": "and asked,",
+        "parent": "12",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "12",
+        "text": "\"What would you call that in England?\"",
+        "parent": "22",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "13",
+        "text": "\"Ostentatious,\"",
+        "parent": "23",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "14",
+        "text": "my wife replied.",
+        "parent": "13",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      }
+    ]
+  },
+  "6": {
+    "file": "6.rs3",
+    "relation_types": {
+      "Attribution": "rst",
+      "Background": "rst",
+      "Contrast": "multinuc",
+      "Elaboration": "rst",
+      "Explanation": "rst",
+      "Temporal": "multinuc",
+      "antithesis": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "When a group of Americans, many in the teaching profession, visited her in Calcutta,",
+        "parent": "19",
+        "relation": "Temporal",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "2",
+        "text": "they asked her for some advice",
+        "parent": "18",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "3",
+        "text": "to take home to their families.",
+        "parent": "2",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "4",
+        "text": "\"Smile at your wives,\"",
+        "parent": "20",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "5",
+        "text": "she told them.",
+        "parent": "4",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "6",
+        "text": "\"Smile at your husbands.\"",
+        "parent": "21",
+        "relation": "Contrast",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "7",
+        "text": "Thinking",
+        "parent": "23",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "8",
+        "text": "that perhaps the counsel was simplistic,",
+        "parent": "23",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "9",
+        "text": "coming from an unmarried person,",
+        "parent": "8",
+        "relation": "Explanation",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "10",
+        "text": "one of them asked,",
+        "parent": "11",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "11",
+        "text": "\"Are you married?\"",
+        "parent": "25",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "12",
+        "text": "\"Yes,\"",
+        "parent": "27",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "13",
+        "text": "she replied, to their surprise,",
+        "parent": "12",
+        "relation": "Attribution",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "14",
+        "text": "\"",
+        "parent": "29",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "15",
+        "text": "and I find it hard sometimes to smile at Jesus.",
+        "parent": "28",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "16",
+        "text": "He can be very demanding.\"",
+        "parent": "15",
+        "relation": "Explanation",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      }
+    ]
+  },
+  "7": {
+    "file": "7.rs3",
+    "relation_types": {
+      "Elaboration": "rst",
+      "antithesis": "multinuc",
+      "same-unit": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "ZPG's 1985 Urban Stress Test,",
+        "parent": "9",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "2",
+        "text": "created after months of persistent and exhaustive research,",
+        "parent": "1",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "3",
+        "text": "is the nation's first survey",
+        "parent": "10",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "of how population-linked pressures affect U.S. cities.",
+        "parent": "3",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "5",
+        "text": "It ranks 184 urban areas on 11 different criteria",
+        "parent": "12",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "6",
+        "text": "ranging from crowding and birth rates to air quality and toxic wastes.",
+        "parent": "5",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "7",
+        "text": "The Urban Stress Test translates complex, technical data into an easy-to-use action tool for concerned citizens, elected officials and opinion leaders.",
+        "parent": "13",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      }
+    ]
+  },
+  "8": {
+    "file": "8.rs3",
+    "relation_types": {
+      "Elaboration": "rst",
+      "Explanation": "rst",
+      "Joint": "multinuc",
+      "antithesis": "multinuc",
+      "same-unit": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "Our knowledge of ancient shipbuilding techniques, for example, is dependent on the work of archaeologists",
+        "parent": "10",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "2",
+        "text": "who have painstakingly excavated remains of ships themselves.",
+        "parent": "1",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "3",
+        "text": "The contents of shipwrecks are an equally valuable archaeological resource.",
+        "parent": "15",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "Since the objects in a wreck represent a single moment in time,",
+        "parent": "5",
+        "relation": "Explanation",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "5",
+        "text": "they provide better chronological information than even the most carefully excavated terrestrial site.",
+        "parent": "11",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "6",
+        "text": "Moreover, perishable items such as foodstuffs,",
+        "parent": "12",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "7",
+        "text": "which do not survive well on land,",
+        "parent": "6",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "8",
+        "text": "are often preserved underwater.",
+        "parent": "13",
+        "relation": "same-unit",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      }
+    ]
+  },
+  "9": {
+    "file": "9.rs3",
+    "relation_types": {
+      "Condition": "rst",
+      "Elaboration": "rst",
+      "Enablement": "rst",
+      "Temporal": "multinuc",
+      "antithesis": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "In an article for Campus Life magazine, Susan Smart describes her third and nearly last solo flight.",
+        "parent": "18",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "2",
+        "text": "She had been practicing a maneuver at 5,000 feet",
+        "parent": "12",
+        "relation": "Temporal",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "3",
+        "text": "when she lost control",
+        "parent": "11",
+        "relation": "Temporal",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "and her Cessna 150 began spinning wildly toward earth.",
+        "parent": "11",
+        "relation": "Temporal",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "5",
+        "text": "After several seconds of panic, she recalled her instructor's words:",
+        "parent": "14",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "6",
+        "text": "\"If you ever go into a spin in a Cessna 150,",
+        "parent": "7",
+        "relation": "Condition",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "7",
+        "text": "just let go of the controls.",
+        "parent": "13",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "8",
+        "text": "It's built",
+        "parent": "15",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "9",
+        "text": "to fly on its own.\"",
+        "parent": "8",
+        "relation": "Enablement",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      }
+    ]
+  },
+  "10": {
+    "file": "10.rs3",
+    "relation_types": {
+      "Contrast": "multinuc",
+      "Elaboration": "rst",
+      "antithesis": "multinuc",
+      "same-unit": "multinuc"
+    },
+    "segments": [
+      {
+        "id": "1",
+        "text": "This paper is part of an effort",
+        "parent": "16",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "2",
+        "text": "to relate various accounts.",
+        "parent": "1",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "3",
+        "text": "It is the first in a pair of papers",
+        "parent": "17",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "4",
+        "text": "that compare two particular accounts:",
+        "parent": "3",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "5",
+        "text": "Rhetorical Structure Theory and Systemic Linguistics.",
+        "parent": "17",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "6",
+        "text": "Rhetorical Structure Theory,",
+        "parent": "19",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "7",
+        "text": "initially formulated in 1983,",
+        "parent": "6",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "8",
+        "text": "describes texts in terms of functionally-defined relations",
+        "parent": "20",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "9",
+        "text": "that hold between their parts.",
+        "parent": "8",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "10",
+        "text": "Systemic Linguistics is a much more comprehensive view of language",
+        "parent": "22",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "11",
+        "text": "initiated in the early 1960s.",
+        "parent": "10",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      },
+      {
+        "id": "12",
+        "text": "Where the two approaches are comparable,",
+        "parent": "24",
+        "relation": "Contrast",
+        "relation_type": "multinuc",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "13",
+        "text": "Systemic Linguistics describes texts in terms of categories of processes",
+        "parent": "24",
+        "relation": "span",
+        "relation_type": "span",
+        "is_nucleus": true,
+        "is_satellite": false
+      },
+      {
+        "id": "14",
+        "text": "which the texts perform.",
+        "parent": "13",
+        "relation": "Elaboration",
+        "relation_type": "rst",
+        "is_nucleus": false,
+        "is_satellite": true
+      }
+    ]
+  }
+}

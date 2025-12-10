@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="Condition" type="rst" />
+			<rel name="Elaboration" type="rst" />
+			<rel name="Enablement" type="rst" />
+			<rel name="Temporal" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="18" relname="span">In an article for Campus Life magazine, Susan Smart describes her third and nearly last solo flight.</segment>
+		<segment id="2" parent="12" relname="Temporal">She had been practicing a maneuver at 5,000 feet</segment>
+		<segment id="3" parent="11" relname="Temporal">when she lost control</segment>
+		<segment id="4" parent="11" relname="Temporal">and her Cessna 150 began spinning wildly toward earth.</segment>
+		<segment id="5" parent="14" relname="span">After several seconds of panic, she recalled her instructor's words:</segment>
+		<segment id="6" parent="7" relname="Condition">"If you ever go into a spin in a Cessna 150,</segment>
+		<segment id="7" parent="13" relname="span">just let go of the controls.</segment>
+		<segment id="8" parent="15" relname="span">It's built</segment>
+		<segment id="9" parent="8" relname="Enablement">to fly on its own."</segment>
+		<group id="17" type="span" parent="1" relname="Elaboration"/>
+		<group id="12" type="multinuc" parent="17" relname="span"/>
+		<group id="11" type="multinuc" parent="12" relname="Temporal"/>
+		<group id="16" type="span" parent="12" relname="Elaboration"/>
+		<group id="14" type="span" parent="16" relname="span"/>
+		<group id="13" type="span" parent="5" relname="Elaboration"/>
+		<group id="15" type="span" parent="14" relname="Elaboration"/>
+		<group id="18" type="span"/>
+	</body>
+</rst>

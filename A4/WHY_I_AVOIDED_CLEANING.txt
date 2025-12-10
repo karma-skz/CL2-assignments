@@ -1,0 +1,12 @@
+lowercasing everything would lead to loss of capitalisation ie loss of proper nouns (that have the first letter capitalised!) for a standard POS tagger
+
+removing punctuation would mean removing cues that tell about sentence separation and making things difficult for POS tagging!
+
+removing stopwords would break chunking and degrade a pretrained POS tagger because it would remove most aux verbs
+
+stemming/lemmatizing makes words lose implicit number/tense markers like running can be written as "run(list all tenses possible)" but it would be difficult for a pretrained POS tagger to work with data like that.
+
+didnt remove extra white spaces because in the test and train sets there are no unneeded line breaks and there is only 1 instance of more than 1 space occuring continuously. its not worth cleaning because of this.
+
+
+the main reason is that changing the data would mean that the given offsets would have to be rechecked.
